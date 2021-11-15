@@ -1,1 +1,6 @@
-General workflow for amplicon sequencing with combinatorial barcoding.
+Screening by targeted RNA sequencing with combinatorial barcoding.
+
+USAGE: 
+$ bash as1.sh configuration.yaml
+$ bash s2.sh configuration.yaml
+
