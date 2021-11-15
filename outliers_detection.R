@@ -1,5 +1,5 @@
 library(tidyverse)
-setwd("F:/MAEscreenDataAnalysis/Secondary_screen")
+## setwd("F:/MAEscreenDataAnalysis/Secondary_screen")
 
 df <- read_csv("screen_seq_data_complete.csv")
 df <- df %>% dplyr::select(readout_gene, target_gene, bias, num_reads) %>%
