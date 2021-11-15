@@ -1,3 +1,6 @@
+## visualize output from drug-screen-seq
+## written by Sebastien Vigneau
+
 library(tidyverse)
 ## setwd("F:/MAEscreenDataAnalysis/Secondary_screen")
 
