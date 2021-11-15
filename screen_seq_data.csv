@@ -1,0 +1,1996 @@
+readout_gene,readout_class,replicate,assay,target_gene,day,shrna,bias,num_reads,cell_density,extra_umi
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0.7,181,SMALL DARK SPOTS,
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0.773333333,225,SMALL DARK  ,
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.83269962,1315,SMALL DARK,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0.041666667,72,SMALL DARK SPOTS,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0.114942529,87,SMALL DARK  ,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.001468429,681,SMALL DARK,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0.094017094,117,SMALL DARK SPOTS,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0,113,SMALL DARK  ,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.072490706,539,SMALL DARK,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0,131,SMALL DARK SPOTS,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0.0125,160,SMALL DARK  ,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.000946074,1057,SMALL DARK,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0.536585366,41,SMALL DARK SPOTS,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0.666666667,49,SMALL DARK  ,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.43768997,659,SMALL DARK,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0.309090909,55,SMALL DARK SPOTS,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0.367346939,98,SMALL DARK  ,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.158536585,738,SMALL DARK,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0.909090909,77,SMALL DARK SPOTS,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0.824324324,74,SMALL DARK  ,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.878009631,623,SMALL DARK,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,1,66,SMALL DARK SPOTS,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,1,73,SMALL DARK  ,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,1,594,SMALL DARK,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0.998846597,869,SMALL DARK SPOTS,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0.997760358,894,SMALL DARK  ,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.999357602,4676,SMALL DARK,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,NA,0,SMALL DARK SPOTS,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,NA,0,SMALL DARK  ,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,NA,0,SMALL DARK,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,1,149,SMALL DARK SPOTS,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,1,98,SMALL DARK  ,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,1,1022,SMALL DARK,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0.25,8,SMALL DARK SPOTS,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0,14,SMALL DARK  ,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.003389831,295,SMALL DARK,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0.74015748,508,SMALL DARK SPOTS,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0.70018622,537,SMALL DARK  ,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.759031919,2851,SMALL DARK,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,1,37,SMALL DARK SPOTS,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,1,14,SMALL DARK  ,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,1,203,SMALL DARK,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,1,60,SMALL DARK SPOTS,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,1,103,SMALL DARK  ,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.998778999,819,SMALL DARK,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,1,231,SMALL DARK SPOTS,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,1,197,SMALL DARK  ,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,1,1036,SMALL DARK,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0,6,SMALL DARK SPOTS,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0,35,SMALL DARK  ,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0,18,SMALL DARK,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0.866666667,15,SMALL DARK SPOTS,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,10uM,1,13,SMALL DARK  ,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,7,1uM,1,78,SMALL DARK,
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,1,2,DIFFUSE DEAD,
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,0.5,2,DIFFUSE LIVE?,
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,0.645833333,48,SPREAD OUT SLIGHTLY DIFFUSE,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,0,1,DIFFUSE DEAD,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,0,2,DIFFUSE LIVE?,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,0.157894737,38,SPREAD OUT SLIGHTLY DIFFUSE,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,0,1,DIFFUSE DEAD,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,0,10,DIFFUSE LIVE?,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,0.214285714,14,SPREAD OUT SLIGHTLY DIFFUSE,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,0,6,DIFFUSE DEAD,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,0,4,DIFFUSE LIVE?,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,0,57,SPREAD OUT SLIGHTLY DIFFUSE,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,0.333333333,3,DIFFUSE DEAD,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,0.8,15,DIFFUSE LIVE?,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,0.266666667,30,SPREAD OUT SLIGHTLY DIFFUSE,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,NA,0,DIFFUSE DEAD,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,0,4,DIFFUSE LIVE?,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,0.176470588,17,SPREAD OUT SLIGHTLY DIFFUSE,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,NA,0,DIFFUSE DEAD,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,1,3,DIFFUSE LIVE?,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,0.837837838,37,SPREAD OUT SLIGHTLY DIFFUSE,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,NA,0,DIFFUSE DEAD,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,NA,0,DIFFUSE LIVE?,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,1,11,SPREAD OUT SLIGHTLY DIFFUSE,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,1,53,DIFFUSE DEAD,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,1,60,DIFFUSE LIVE?,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,1,727,SPREAD OUT SLIGHTLY DIFFUSE,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,NA,0,DIFFUSE DEAD,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,NA,0,DIFFUSE LIVE?,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,NA,0,SPREAD OUT SLIGHTLY DIFFUSE,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,1,2,DIFFUSE DEAD,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,1,1,DIFFUSE LIVE?,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,1,53,SPREAD OUT SLIGHTLY DIFFUSE,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,0,2,DIFFUSE DEAD,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,0,1,DIFFUSE LIVE?,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,0,9,SPREAD OUT SLIGHTLY DIFFUSE,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,1,4,DIFFUSE DEAD,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,0.772727273,22,DIFFUSE LIVE?,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,0.825242718,103,SPREAD OUT SLIGHTLY DIFFUSE,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,1,1,DIFFUSE DEAD,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,1,3,DIFFUSE LIVE?,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,1,5,SPREAD OUT SLIGHTLY DIFFUSE,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,1,1,DIFFUSE DEAD,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,1,3,DIFFUSE LIVE?,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,1,18,SPREAD OUT SLIGHTLY DIFFUSE,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,1,4,DIFFUSE DEAD,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,1,22,DIFFUSE LIVE?,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,1,57,SPREAD OUT SLIGHTLY DIFFUSE,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,0,1,DIFFUSE DEAD,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,NA,0,DIFFUSE LIVE?,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,0,4,SPREAD OUT SLIGHTLY DIFFUSE,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,20uM,NA,0,DIFFUSE DEAD,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,10uM,NA,0,DIFFUSE LIVE?,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,14,1uM,0.846153846,13,SPREAD OUT SLIGHTLY DIFFUSE,
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,0.6,10,DIFFUSE DEAD,
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,0.857142857,14,DIFFUSE DEAD,
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,0.615384615,26,DIFFUSE SOME CLUMPS,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,0,2,DIFFUSE DEAD,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,0,5,DIFFUSE DEAD,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,0.066666667,15,DIFFUSE SOME CLUMPS,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,0,2,DIFFUSE DEAD,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,0.142857143,7,DIFFUSE DEAD,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,0,3,DIFFUSE SOME CLUMPS,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,0,1,DIFFUSE DEAD,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,0,7,DIFFUSE DEAD,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,0,22,DIFFUSE SOME CLUMPS,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,0.5,2,DIFFUSE DEAD,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,0,1,DIFFUSE DEAD,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,0.636363636,11,DIFFUSE SOME CLUMPS,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,1,2,DIFFUSE DEAD,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,1,3,DIFFUSE DEAD,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,1,5,DIFFUSE SOME CLUMPS,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,1,2,DIFFUSE DEAD,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,1,7,DIFFUSE DEAD,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,1,16,DIFFUSE SOME CLUMPS,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,1,2,DIFFUSE DEAD,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,NA,0,DIFFUSE DEAD,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,1,4,DIFFUSE SOME CLUMPS,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,1,56,DIFFUSE DEAD,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,1,90,DIFFUSE DEAD,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,1,356,DIFFUSE SOME CLUMPS,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,NA,0,DIFFUSE DEAD,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,NA,0,DIFFUSE DEAD,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,NA,0,DIFFUSE SOME CLUMPS,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,1,3,DIFFUSE DEAD,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,1,11,DIFFUSE DEAD,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,1,45,DIFFUSE SOME CLUMPS,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,NA,0,DIFFUSE DEAD,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,0,1,DIFFUSE DEAD,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,0,6,DIFFUSE SOME CLUMPS,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,0.833333333,6,DIFFUSE DEAD,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,0.916666667,12,DIFFUSE DEAD,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,0.892857143,56,DIFFUSE SOME CLUMPS,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,1,2,DIFFUSE DEAD,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,1,2,DIFFUSE DEAD,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,1,17,DIFFUSE SOME CLUMPS,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,1,1,DIFFUSE DEAD,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,1,5,DIFFUSE DEAD,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,1,9,DIFFUSE SOME CLUMPS,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,1,4,DIFFUSE DEAD,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,1,4,DIFFUSE DEAD,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,1,20,DIFFUSE SOME CLUMPS,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,0,2,DIFFUSE DEAD,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,0,1,DIFFUSE DEAD,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,0,2,DIFFUSE SOME CLUMPS,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,20uM,NA,0,DIFFUSE DEAD,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,10uM,NA,0,DIFFUSE DEAD,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,21,1uM,1,2,DIFFUSE SOME CLUMPS,
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,0,1,DIFFUSE DEAD,
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,0.555555556,9,DIFFUSE DEAD,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,0,1,DIFFUSE DEAD,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,0,7,DIFFUSE DEAD,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,0,1,DIFFUSE DEAD,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,0,3,DIFFUSE DEAD,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,0,1,DIFFUSE DEAD,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,0,16,DIFFUSE DEAD,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,1,1,DIFFUSE DEAD,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,1,1,DIFFUSE DEAD,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,0.555555556,9,DIFFUSE DEAD,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,1,1,DIFFUSE DEAD,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,0.454545455,22,DIFFUSE DEAD,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,1,3,DIFFUSE DEAD,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,1,20,DIFFUSE DEAD,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,NA,0,DIFFUSE DEAD,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,NA,0,DIFFUSE DEAD,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,1,40,DIFFUSE DEAD,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,1,34,DIFFUSE DEAD,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,1,298,DIFFUSE DEAD,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,NA,0,DIFFUSE DEAD,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,NA,0,DIFFUSE DEAD,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,NA,0,DIFFUSE DEAD,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,1,10,DIFFUSE DEAD,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,NA,0,DIFFUSE DEAD,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,0,6,DIFFUSE DEAD,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,0.8,5,DIFFUSE DEAD,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,1,3,DIFFUSE DEAD,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,0.914285714,35,DIFFUSE DEAD,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,NA,0,DIFFUSE DEAD,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,NA,0,DIFFUSE DEAD,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,1,1,DIFFUSE DEAD,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,1,10,DIFFUSE DEAD,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,1,1,DIFFUSE DEAD,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,NA,0,DIFFUSE DEAD,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,1,17,DIFFUSE DEAD,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,NA,0,DIFFUSE DEAD,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,0,3,DIFFUSE DEAD,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,10uM,NA,0,DIFFUSE DEAD,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,28,1uM,1,1,DIFFUSE DEAD,
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,1,1,DIFFUSE DARK,
+Adamtsl4,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,1,15,DIFFUSE DARK,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,NA,0,DIFFUSE DARK,
+Adnp2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,0,5,DIFFUSE DARK,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,NA,0,DIFFUSE DARK,
+Afap1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,0,1,DIFFUSE DARK,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,0,4,DIFFUSE DARK,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,0,2,DIFFUSE DARK,
+Casd1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,0,19,DIFFUSE DARK,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,0.75,4,DIFFUSE DARK,
+Ccnj,BAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,0.25,4,DIFFUSE DARK,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,1,1,DIFFUSE DARK,
+Col6a5,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,1,5,DIFFUSE DARK,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,NA,0,DIFFUSE DARK,
+Dnajc12,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,0.875,8,DIFFUSE DARK,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,1,1,DIFFUSE DARK,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,1,1,DIFFUSE DARK,
+Fam217b,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,1,4,DIFFUSE DARK,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,1,57,DIFFUSE DARK,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,1,25,DIFFUSE DARK,
+H2-Ea-ps,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,1,374,DIFFUSE DARK,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,NA,0,DIFFUSE DARK,
+Hdlbp,BAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,NA,0,DIFFUSE DARK,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,1,1,DIFFUSE DARK,
+Mecp2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,1,13,DIFFUSE DARK,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,NA,0,DIFFUSE DARK,
+Ncam2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,0,1,DIFFUSE DARK,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,1,3,DIFFUSE DARK,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,0,1,DIFFUSE DARK,
+Pea15a,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,1,27,DIFFUSE DARK,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,NA,0,DIFFUSE DARK,
+Phka2,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,1,1,DIFFUSE DARK,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,1,2,DIFFUSE DARK,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,NA,0,DIFFUSE DARK,
+Pola1,Xlinked,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,1,11,DIFFUSE DARK,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,1,7,DIFFUSE DARK,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,NA,0,DIFFUSE DARK,
+Sash1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,1,21,DIFFUSE DARK,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,0,1,DIFFUSE DARK,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,NA,0,DIFFUSE DARK,
+Smtnl2,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,0,1,DIFFUSE DARK,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,10uM,NA,0,DIFFUSE DARK,
+Spire1,MAE,2,no-UMI,5-Aza-2-deoxycytidine,35,1uM,1,1,DIFFUSE DARK,
+Adamtsl4,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.940674013,34366,,
+Adamtsl4,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0.91689008,375,,
+Adamtsl4,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0.243942602,4269,,
+Adnp2,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.097222222,72,,
+Adnp2,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0.061946903,226,,
+Adnp2,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0.071428571,14,,
+Afap1,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,NA,0,,
+Afap1,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,NA,0,,
+Afap1,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,1,1,,
+Cacnb2,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,NA,0,,
+Cacnb2,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,NA,0,,
+Cacnb2,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,NA,0,,
+Casd1,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,NA,0,,
+Casd1,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0,1,,
+Casd1,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,NA,0,,
+Ccnj,BAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.666666667,4,,
+Ccnj,BAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0.545454545,11,,
+Ccnj,BAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,NA,0,,
+Col6a5,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0,8,,
+Col6a5,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,NA,0,,
+Col6a5,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,NA,0,,
+Dnajc12,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,1,4,,
+Dnajc12,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,1,177,,
+Dnajc12,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0.857142857,7,,
+Fam217b,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0,2144,,
+Fam217b,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0,355,,
+Fam217b,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0,103,,
+H2-Ea-ps,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.999541495,30589,,
+H2-Ea-ps,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,1,92,,
+H2-Ea-ps,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,1,45,,
+Hdlbp,BAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.97391055,3499,,
+Hdlbp,BAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0.595744681,94,,
+Hdlbp,BAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0.494736842,96,,
+Mecp2,Xlinked,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.998357964,609,,
+Mecp2,Xlinked,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,1,31,,
+Mecp2,Xlinked,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,1,18,,
+Ncam2,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0,5,,
+Ncam2,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0,26,,
+Ncam2,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0,2,,
+Pea15a,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.50952381,210,,
+Pea15a,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0.909090909,11,,
+Pea15a,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,1,11,,
+Phka2,Xlinked,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,NA,0,,
+Phka2,Xlinked,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,NA,0,,
+Phka2,Xlinked,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,NA,0,,
+Pola1,Xlinked,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,1,1,,
+Pola1,Xlinked,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,1,9,,
+Pola1,Xlinked,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,1,1,,
+Sash1,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.999844358,6443,,
+Sash1,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,1,802,,
+Sash1,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,1,28,,
+Smtnl2,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.018518519,54,,
+Smtnl2,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,0.028571429,35,,
+Smtnl2,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,0,12,,
+Spire1,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.64,25,,
+Spire1,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,1,2,,
+Spire1,MAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,1,1,,
+Tmem104,BAE,1,no-UMI,5-Aza-2-deoxycytidine,7,1uM,0.006060606,165,,
+Tmem104,BAE,1,no-UMI,5-Aza-2-deoxycytidine,7,10uM,NA,0,,
+Tmem104,BAE,1,no-UMI,5-Aza-2-deoxycytidine,7,20uM,NA,0,,
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,7,20uM,0,13,SMALL DARK SPOTS,37
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,7,10uM,0,8,SMALL DARK  ,26
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,7,1uM,0,34,SMALL DARK,367
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,7,20uM,1,5,SMALL DARK SPOTS,167
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,7,10uM,1,12,SMALL DARK  ,245
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,7,1uM,0.681818182,22,SMALL DARK,1341
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,7,20uM,0,9,SMALL DARK SPOTS,83
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,7,10uM,0.076923077,13,SMALL DARK  ,100
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,7,1uM,0.028571429,35,SMALL DARK,908
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,7,20uM,0.777777778,9,SMALL DARK SPOTS,23
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,7,10uM,0.875,8,SMALL DARK  ,34
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,7,1uM,0.647058824,34,SMALL DARK,196
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,7,20uM,0.558823529,34,SMALL DARK SPOTS,194
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,7,10uM,0.75,16,SMALL DARK  ,154
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,7,1uM,0.881355932,59,SMALL DARK,1351
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,7,20uM,1,13,SMALL DARK SPOTS,21
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,7,10uM,1,9,SMALL DARK  ,29
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,7,1uM,1,37,SMALL DARK,326
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,7,20uM,0.555555556,45,SMALL DARK SPOTS,72
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,7,10uM,0.604651163,43,SMALL DARK  ,114
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,7,1uM,0.529411765,86,SMALL DARK,635
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,7,20uM,0,1,SMALL DARK SPOTS,4
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,7,10uM,0,3,SMALL DARK  ,39
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,7,1uM,0,6,SMALL DARK,76
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,7,20uM,0.258064516,31,SMALL DARK SPOTS,58
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,7,10uM,0.157894737,19,SMALL DARK  ,60
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,7,1uM,0.1,40,SMALL DARK,440
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,14,20uM,0,1,DIFFUSE DEAD,0
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,14,10uM,NA,0,DIFFUSE LIVE?,NA
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,14,1uM,0,8,SPREAD OUT SLIGHTLY DIFFUSE,10
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,14,20uM,1,1,DIFFUSE DEAD,0
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,14,10uM,1,1,DIFFUSE LIVE?,6
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,14,1uM,1,5,SPREAD OUT SLIGHTLY DIFFUSE,41
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,14,20uM,NA,0,DIFFUSE DEAD,0
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,14,10uM,0,1,DIFFUSE LIVE?,1
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,14,1uM,0,7,SPREAD OUT SLIGHTLY DIFFUSE,37
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,14,20uM,0.5,2,DIFFUSE DEAD,0
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,14,10uM,0,1,DIFFUSE LIVE?,0
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,14,1uM,0.823529412,17,SPREAD OUT SLIGHTLY DIFFUSE,1
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,14,20uM,NA,0,DIFFUSE DEAD,NA
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,14,10uM,NA,0,DIFFUSE LIVE?,5
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,14,1uM,0.85,20,SPREAD OUT SLIGHTLY DIFFUSE,64
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,14,20uM,1,3,DIFFUSE DEAD,0
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,14,10uM,NA,0,DIFFUSE LIVE?,NA
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,14,1uM,1,10,SPREAD OUT SLIGHTLY DIFFUSE,5
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,14,20uM,0.5,2,DIFFUSE DEAD,0
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,14,10uM,0.5,2,DIFFUSE LIVE?,0
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,14,1uM,0.488888889,45,SPREAD OUT SLIGHTLY DIFFUSE,30
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,14,20uM,NA,0,DIFFUSE DEAD,0
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,14,10uM,NA,0,DIFFUSE LIVE?,1
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,14,1uM,0,1,SPREAD OUT SLIGHTLY DIFFUSE,3
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,14,20uM,NA,0,DIFFUSE DEAD,NA
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,14,10uM,NA,0,DIFFUSE LIVE?,NA
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,14,1uM,0,1,SPREAD OUT SLIGHTLY DIFFUSE,0
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,21,20uM,NA,0,DIFFUSE DEAD,NA
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,21,10uM,NA,0,DIFFUSE DEAD,NA
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,21,1uM,0,5,DIFFUSE SOME CLUMPS,1
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,21,20uM,1,1,DIFFUSE DEAD,7
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,21,10uM,NA,0,DIFFUSE DEAD,13
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,21,1uM,1,6,DIFFUSE SOME CLUMPS,23
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,21,20uM,0,1,DIFFUSE DEAD,0
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,21,10uM,NA,0,DIFFUSE DEAD,3
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,21,1uM,0,5,DIFFUSE SOME CLUMPS,16
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,21,20uM,0,1,DIFFUSE DEAD,0
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,21,10uM,1,1,DIFFUSE DEAD,0
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,21,1uM,0.666666667,6,DIFFUSE SOME CLUMPS,1
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,21,20uM,NA,0,DIFFUSE DEAD,1
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,21,10uM,0,1,DIFFUSE DEAD,6
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,21,1uM,0.916666667,12,DIFFUSE SOME CLUMPS,33
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,21,20uM,NA,0,DIFFUSE DEAD,NA
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,21,10uM,1,1,DIFFUSE DEAD,2
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,21,1uM,1,10,DIFFUSE SOME CLUMPS,6
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,21,20uM,0,2,DIFFUSE DEAD,0
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,21,10uM,1,2,DIFFUSE DEAD,0
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,21,1uM,0.5625,16,DIFFUSE SOME CLUMPS,3
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,21,20uM,NA,0,DIFFUSE DEAD,1
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,21,10uM,NA,0,DIFFUSE DEAD,0
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,21,1uM,NA,0,DIFFUSE SOME CLUMPS,1
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,21,20uM,NA,0,DIFFUSE DEAD,NA
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,21,10uM,NA,0,DIFFUSE DEAD,NA
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,21,1uM,0,1,DIFFUSE SOME CLUMPS,0
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,28,20uM,0,1,DIFFUSE DEAD,0
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,28,10uM,NA,0,DIFFUSE DEAD,NA
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,28,1uM,0,2,DIFFUSE DEAD,0
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,NA
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,28,10uM,NA,0,DIFFUSE DEAD,3
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,28,1uM,1,1,DIFFUSE DEAD,8
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,28,20uM,0,2,DIFFUSE DEAD,0
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,28,10uM,0,1,DIFFUSE DEAD,1
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,28,1uM,0,3,DIFFUSE DEAD,6
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,28,20uM,1,1,DIFFUSE DEAD,0
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,28,10uM,1,3,DIFFUSE DEAD,0
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,28,1uM,0.6,10,DIFFUSE DEAD,0
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,28,20uM,1,2,DIFFUSE DEAD,0
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,28,10uM,NA,0,DIFFUSE DEAD,7
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,28,1uM,1,4,DIFFUSE DEAD,22
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,NA
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,28,10uM,NA,0,DIFFUSE DEAD,NA
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,28,1uM,1,6,DIFFUSE DEAD,0
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,NA
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,28,10uM,0.5,2,DIFFUSE DEAD,0
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,28,1uM,0.25,8,DIFFUSE DEAD,0
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,NA
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,28,10uM,NA,0,DIFFUSE DEAD,0
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,28,1uM,0,4,DIFFUSE DEAD,2
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,28,20uM,NA,0,DIFFUSE DEAD,NA
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,28,10uM,0,1,DIFFUSE DEAD,0
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,28,1uM,0,3,DIFFUSE DEAD,0
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,NA
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,35,10uM,0,1,DIFFUSE DARK,0
+3830406C13Rik,MAE,2,UMI,5-Aza-2-deoxycytidine,35,1uM,0,8,DIFFUSE DARK,0
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,NA
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,35,10uM,NA,0,DIFFUSE DARK,9
+Adamtsl4,MAE,2,UMI,5-Aza-2-deoxycytidine,35,1uM,1,4,DIFFUSE DARK,14
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,NA
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,35,10uM,0,2,DIFFUSE DARK,1
+Adnp2,MAE,2,UMI,5-Aza-2-deoxycytidine,35,1uM,0,5,DIFFUSE DARK,4
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,NA
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,35,10uM,1,2,DIFFUSE DARK,0
+Dlc1,MAE,2,UMI,5-Aza-2-deoxycytidine,35,1uM,0.722222222,18,DIFFUSE DARK,2
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,1
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,35,10uM,1,1,DIFFUSE DARK,3
+Dnajc12,MAE,2,UMI,5-Aza-2-deoxycytidine,35,1uM,1,10,DIFFUSE DARK,11
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,35,20uM,1,3,DIFFUSE DARK,0
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,35,10uM,1,1,DIFFUSE DARK,0
+Gprasp1,X-Linked,2,UMI,5-Aza-2-deoxycytidine,35,1uM,1,12,DIFFUSE DARK,0
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,35,20uM,0.5,2,DIFFUSE DARK,0
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,35,10uM,1,1,DIFFUSE DARK,0
+Slc25a37,BAE,2,UMI,5-Aza-2-deoxycytidine,35,1uM,0.388888889,18,DIFFUSE DARK,0
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,35,20uM,NA,0,DIFFUSE DARK,0
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,35,10uM,NA,0,DIFFUSE DARK,NA
+Smtnl2,MAE,2,UMI,5-Aza-2-deoxycytidine,35,1uM,0,1,DIFFUSE DARK,0
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,35,20uM,0,1,DIFFUSE DARK,0
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,35,10uM,0,1,DIFFUSE DARK,0
+Tpst1,MAE,2,UMI,5-Aza-2-deoxycytidine,35,1uM,0,3,DIFFUSE DARK,0
+Adamtsl4,MAE,2,no-UMI,Control,7,DMSO1,0.878902678,7656,VG,
+Adnp2,MAE,2,no-UMI,Control,7,DMSO1,0.015028902,4326,VG,
+Afap1,MAE,2,no-UMI,Control,7,DMSO1,0.038942976,3597,VG,
+Casd1,MAE,2,no-UMI,Control,7,DMSO1,0.004673261,12841,VG,
+Ccnj,BAE,2,no-UMI,Control,7,DMSO1,0.451757059,4925,VG,
+Col6a5,MAE,2,no-UMI,Control,7,DMSO1,0.938034188,938,VG,
+Dnajc12,MAE,2,no-UMI,Control,7,DMSO1,0.942567568,4442,VG,
+Fam217b,MAE,2,no-UMI,Control,7,DMSO1,1,3230,VG,
+H2-Ea-ps,MAE,2,no-UMI,Control,7,DMSO1,0.998796389,4993,VG,
+Hdlbp,BAE,2,no-UMI,Control,7,DMSO1,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,Control,7,DMSO1,0.999813276,10711,VG,
+Ncam2,MAE,2,no-UMI,Control,7,DMSO1,0.000528262,1894,VG,
+Pea15a,MAE,2,no-UMI,Control,7,DMSO1,0.811476128,11415,VG,
+Phka2,Xlinked,2,no-UMI,Control,7,DMSO1,0.998773006,1630,VG,
+Pola1,Xlinked,2,no-UMI,Control,7,DMSO1,1,4480,VG,
+Sash1,MAE,2,no-UMI,Control,7,DMSO1,0.999174407,4845,VG,
+Smtnl2,MAE,2,no-UMI,Control,7,DMSO1,0.217777778,901,VG,
+Spire1,MAE,2,no-UMI,Control,7,DMSO1,0.933008526,821,VG,
+Adamtsl4,MAE,2,no-UMI,Control,14,DMSO1,0.835713582,10154,VG ,
+Adnp2,MAE,2,no-UMI,Control,14,DMSO1,0.010672854,6466,VG ,
+Afap1,MAE,2,no-UMI,Control,14,DMSO1,0.04698647,4068,VG ,
+Casd1,MAE,2,no-UMI,Control,14,DMSO1,0.00519987,15389,VG ,
+Ccnj,BAE,2,no-UMI,Control,14,DMSO1,0.480284105,8176,VG ,
+Col6a5,MAE,2,no-UMI,Control,14,DMSO1,0.870707071,495,VG ,
+Dnajc12,MAE,2,no-UMI,Control,14,DMSO1,0.884986226,7263,VG ,
+Fam217b,MAE,2,no-UMI,Control,14,DMSO1,1,5038,VG ,
+H2-Ea-ps,MAE,2,no-UMI,Control,14,DMSO1,0.999369859,117579,VG ,
+Hdlbp,BAE,2,no-UMI,Control,14,DMSO1,NA,0,VG ,
+Mecp2,Xlinked,2,no-UMI,Control,14,DMSO1,0.999829439,17593,VG ,
+Ncam2,MAE,2,no-UMI,Control,14,DMSO1,0.047819972,2136,VG ,
+Pea15a,MAE,2,no-UMI,Control,14,DMSO1,0.897914463,26472,VG ,
+Phka2,Xlinked,2,no-UMI,Control,14,DMSO1,1,2548,VG ,
+Pola1,Xlinked,2,no-UMI,Control,14,DMSO1,1,4657,VG ,
+Sash1,MAE,2,no-UMI,Control,14,DMSO1,1,6075,VG ,
+Smtnl2,MAE,2,no-UMI,Control,14,DMSO1,0.016666667,420,VG ,
+Spire1,MAE,2,no-UMI,Control,14,DMSO1,0.931605472,1389,VG ,
+Adamtsl4,MAE,2,no-UMI,Control,21,DMSO1,0.794862834,5724,VG,
+Adnp2,MAE,2,no-UMI,Control,21,DMSO1,0.007508532,2932,VG,
+Afap1,MAE,2,no-UMI,Control,21,DMSO1,0.061386139,2526,VG,
+Casd1,MAE,2,no-UMI,Control,21,DMSO1,0.008608321,5582,VG,
+Ccnj,BAE,2,no-UMI,Control,21,DMSO1,0.619016818,1546,VG,
+Col6a5,MAE,2,no-UMI,Control,21,DMSO1,0.9625,240,VG,
+Dnajc12,MAE,2,no-UMI,Control,21,DMSO1,0.885286783,3209,VG,
+Fam217b,MAE,2,no-UMI,Control,21,DMSO1,0.998993964,994,VG,
+H2-Ea-ps,MAE,2,no-UMI,Control,21,DMSO1,0.999417281,109991,VG,
+Hdlbp,BAE,2,no-UMI,Control,21,DMSO1,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,Control,21,DMSO1,0.999203505,5022,VG,
+Ncam2,MAE,2,no-UMI,Control,21,DMSO1,0,554,VG,
+Pea15a,MAE,2,no-UMI,Control,21,DMSO1,0.944038156,12582,VG,
+Phka2,Xlinked,2,no-UMI,Control,21,DMSO1,1,929,VG,
+Pola1,Xlinked,2,no-UMI,Control,21,DMSO1,1,3871,VG,
+Sash1,MAE,2,no-UMI,Control,21,DMSO1,0.999692686,3255,VG,
+Smtnl2,MAE,2,no-UMI,Control,21,DMSO1,0,255,VG,
+Spire1,MAE,2,no-UMI,Control,21,DMSO1,0.886021505,465,VG,
+Adamtsl4,MAE,2,no-UMI,Control,28,DMSO1,0.935115118,6211,VG,
+Adnp2,MAE,2,no-UMI,Control,28,DMSO1,0.007134364,3364,VG,
+Afap1,MAE,2,no-UMI,Control,28,DMSO1,0.055765595,3178,VG,
+Casd1,MAE,2,no-UMI,Control,28,DMSO1,0.001345507,10406,VG,
+Ccnj,BAE,2,no-UMI,Control,28,DMSO1,0.456305859,2016,VG,
+Col6a5,MAE,2,no-UMI,Control,28,DMSO1,0.965598353,3405,VG,
+Dnajc12,MAE,2,no-UMI,Control,28,DMSO1,0.942575406,5177,VG,
+Fam217b,MAE,2,no-UMI,Control,28,DMSO1,1,1879,VG,
+H2-Ea-ps,MAE,2,no-UMI,Control,28,DMSO1,0.99956342,103185,VG,
+Hdlbp,BAE,2,no-UMI,Control,28,DMSO1,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,Control,28,DMSO1,0.999454818,7339,VG,
+Ncam2,MAE,2,no-UMI,Control,28,DMSO1,0.024285714,700,VG,
+Pea15a,MAE,2,no-UMI,Control,28,DMSO1,0.946977025,16542,VG,
+Phka2,Xlinked,2,no-UMI,Control,28,DMSO1,1,948,VG,
+Pola1,Xlinked,2,no-UMI,Control,28,DMSO1,1,3547,VG,
+Sash1,MAE,2,no-UMI,Control,28,DMSO1,0.999795271,9770,VG,
+Smtnl2,MAE,2,no-UMI,Control,28,DMSO1,0.031695721,631,VG,
+Spire1,MAE,2,no-UMI,Control,28,DMSO1,0.998360656,612,VG,
+Adamtsl4,MAE,2,no-UMI,Control,35,DMSO1,0.925248723,3720,VG,
+Adnp2,MAE,2,no-UMI,Control,35,DMSO1,0.007029053,2134,VG,
+Afap1,MAE,2,no-UMI,Control,35,DMSO1,0.088207095,2087,VG,
+Casd1,MAE,2,no-UMI,Control,35,DMSO1,0.00433121,3925,VG,
+Ccnj,BAE,2,no-UMI,Control,35,DMSO1,0.498239437,1704,VG,
+Col6a5,MAE,2,no-UMI,Control,35,DMSO1,0.972864322,2988,VG,
+Dnajc12,MAE,2,no-UMI,Control,35,DMSO1,0.970290344,2962,VG,
+Fam217b,MAE,2,no-UMI,Control,35,DMSO1,1,585,VG,
+H2-Ea-ps,MAE,2,no-UMI,Control,35,DMSO1,0.999403489,48671,VG,
+Hdlbp,BAE,2,no-UMI,Control,35,DMSO1,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,Control,35,DMSO1,0.999759789,4164,VG,
+Ncam2,MAE,2,no-UMI,Control,35,DMSO1,0,242,VG,
+Pea15a,MAE,2,no-UMI,Control,35,DMSO1,0.911626497,6599,VG,
+Phka2,Xlinked,2,no-UMI,Control,35,DMSO1,1,581,VG,
+Pola1,Xlinked,2,no-UMI,Control,35,DMSO1,0.999491353,1967,VG,
+Sash1,MAE,2,no-UMI,Control,35,DMSO1,0.999794112,4858,VG,
+Smtnl2,MAE,2,no-UMI,Control,35,DMSO1,0,319,VG,
+Spire1,MAE,2,no-UMI,Control,35,DMSO1,0.971731449,283,VG,
+3830406C13Rik,MAE,2,UMI,Control,7,DMSO1,0,94,VG,
+Adamtsl4,MAE,2,UMI,Control,7,DMSO1,0.989010989,91,VG,
+Adnp2,MAE,2,UMI,Control,7,DMSO1,0.010309278,97,VG,
+Dlc1,MAE,2,UMI,Control,7,DMSO1,0.863636364,132,VG,
+Dnajc12,MAE,2,UMI,Control,7,DMSO1,0.932075472,265,VG,
+Gprasp1,X-Linked,2,UMI,Control,7,DMSO1,0.993421053,154,VG,
+Slc25a37,BAE,2,UMI,Control,7,DMSO1,0.446650124,405,VG,
+Smtnl2,MAE,2,UMI,Control,7,DMSO1,0.058823529,17,VG,
+Tpst1,MAE,2,UMI,Control,7,DMSO1,0.071428571,28,VG,
+3830406C13Rik,MAE,2,UMI,Control,14,DMSO1,0,249,VG ,
+Adamtsl4,MAE,2,UMI,Control,14,DMSO1,1,109,VG ,
+Adnp2,MAE,2,UMI,Control,14,DMSO1,0,160,VG ,
+Dlc1,MAE,2,UMI,Control,14,DMSO1,0.84375,321,VG ,
+Dnajc12,MAE,2,UMI,Control,14,DMSO1,0.917127072,543,VG ,
+Gprasp1,X-Linked,2,UMI,Control,14,DMSO1,1,242,VG ,
+Slc25a37,BAE,2,UMI,Control,14,DMSO1,0.467114094,748,VG ,
+Smtnl2,MAE,2,UMI,Control,14,DMSO1,0,11,VG ,
+Tpst1,MAE,2,UMI,Control,14,DMSO1,0.019607843,51,VG ,
+3830406C13Rik,MAE,2,UMI,Control,21,DMSO1,0,74,VG,
+Adamtsl4,MAE,2,UMI,Control,21,DMSO1,0.97029703,101,VG,
+Adnp2,MAE,2,UMI,Control,21,DMSO1,0,101,VG,
+Dlc1,MAE,2,UMI,Control,21,DMSO1,0.813559322,118,VG,
+Dnajc12,MAE,2,UMI,Control,21,DMSO1,0.893617021,235,VG,
+Gprasp1,X-Linked,2,UMI,Control,21,DMSO1,0.991452991,117,VG,
+Slc25a37,BAE,2,UMI,Control,21,DMSO1,0.466019417,206,VG,
+Smtnl2,MAE,2,UMI,Control,21,DMSO1,0.090909091,11,VG,
+Tpst1,MAE,2,UMI,Control,21,DMSO1,0.1,60,VG,
+3830406C13Rik,MAE,2,UMI,Control,28,DMSO1,0,116,VG,
+Adamtsl4,MAE,2,UMI,Control,28,DMSO1,1,115,VG,
+Adnp2,MAE,2,UMI,Control,28,DMSO1,0,143,VG,
+Dlc1,MAE,2,UMI,Control,28,DMSO1,0.767515924,314,VG,
+Dnajc12,MAE,2,UMI,Control,28,DMSO1,0.938303342,389,VG,
+Gprasp1,X-Linked,2,UMI,Control,28,DMSO1,0.993865031,164,VG,
+Slc25a37,BAE,2,UMI,Control,28,DMSO1,0.492537313,604,VG,
+Smtnl2,MAE,2,UMI,Control,28,DMSO1,0.05,20,VG,
+Tpst1,MAE,2,UMI,Control,28,DMSO1,0.057142857,35,VG,
+3830406C13Rik,MAE,2,UMI,Control,35,DMSO1,0,74,VG,
+Adamtsl4,MAE,2,UMI,Control,35,DMSO1,0.984496124,129,VG,
+Adnp2,MAE,2,UMI,Control,35,DMSO1,0,90,VG,
+Dlc1,MAE,2,UMI,Control,35,DMSO1,0.797546012,326,VG,
+Dnajc12,MAE,2,UMI,Control,35,DMSO1,0.979661017,295,VG,
+Gprasp1,X-Linked,2,UMI,Control,35,DMSO1,0.991071429,112,VG,
+Slc25a37,BAE,2,UMI,Control,35,DMSO1,0.48189415,360,VG,
+Smtnl2,MAE,2,UMI,Control,35,DMSO1,0,21,VG,
+Tpst1,MAE,2,UMI,Control,35,DMSO1,0,8,VG,
+Adamtsl4,MAE,2,no-UMI,Zebularine,7,20uM,0.816023739,337,VG,
+Adamtsl4,MAE,2,no-UMI,Zebularine,7,10uM,0.881443299,388,VG,
+Adamtsl4,MAE,2,no-UMI,Zebularine,7,1uM,0.865055196,5257,VG,
+Adnp2,MAE,2,no-UMI,Zebularine,7,20uM,0.015243902,328,VG,
+Adnp2,MAE,2,no-UMI,Zebularine,7,10uM,0.007537688,398,VG,
+Adnp2,MAE,2,no-UMI,Zebularine,7,1uM,0.011730205,3411,VG,
+Afap1,MAE,2,no-UMI,Zebularine,7,20uM,0.032911392,395,VG,
+Afap1,MAE,2,no-UMI,Zebularine,7,10uM,0.07028754,313,VG,
+Afap1,MAE,2,no-UMI,Zebularine,7,1uM,0.049839801,2813,VG,
+Casd1,MAE,2,no-UMI,Zebularine,7,20uM,0.006122449,490,VG,
+Casd1,MAE,2,no-UMI,Zebularine,7,10uM,0.004056795,493,VG,
+Casd1,MAE,2,no-UMI,Zebularine,7,1uM,0.002671654,7503,VG,
+Ccnj,BAE,2,no-UMI,Zebularine,7,20uM,0.50887574,169,VG,
+Ccnj,BAE,2,no-UMI,Zebularine,7,10uM,0.479674797,492,VG,
+Ccnj,BAE,2,no-UMI,Zebularine,7,1uM,0.539311517,4709,VG,
+Col6a5,MAE,2,no-UMI,Zebularine,7,20uM,0.9375,144,VG,
+Col6a5,MAE,2,no-UMI,Zebularine,7,10uM,0.889447236,199,VG,
+Col6a5,MAE,2,no-UMI,Zebularine,7,1uM,0.945786366,1865,VG,
+Dnajc12,MAE,2,no-UMI,Zebularine,7,20uM,0.96969697,198,VG,
+Dnajc12,MAE,2,no-UMI,Zebularine,7,10uM,0.926380368,326,VG,
+Dnajc12,MAE,2,no-UMI,Zebularine,7,1uM,0.953116676,3756,VG,
+Fam217b,MAE,2,no-UMI,Zebularine,7,20uM,1,237,VG,
+Fam217b,MAE,2,no-UMI,Zebularine,7,10uM,1,240,VG,
+Fam217b,MAE,2,no-UMI,Zebularine,7,1uM,0.999602702,2520,VG,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,7,20uM,1,361,VG,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,7,10uM,0.997668998,429,VG,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,7,1uM,0.999476371,7650,VG,
+Hdlbp,BAE,2,no-UMI,Zebularine,7,20uM,NA,0,VG,
+Hdlbp,BAE,2,no-UMI,Zebularine,7,10uM,NA,0,VG,
+Hdlbp,BAE,2,no-UMI,Zebularine,7,1uM,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,Zebularine,7,20uM,1,552,VG,
+Mecp2,Xlinked,2,no-UMI,Zebularine,7,10uM,1,949,VG,
+Mecp2,Xlinked,2,no-UMI,Zebularine,7,1uM,0.999770062,8699,VG,
+Ncam2,MAE,2,no-UMI,Zebularine,7,20uM,0.016393443,61,VG,
+Ncam2,MAE,2,no-UMI,Zebularine,7,10uM,0,172,VG,
+Ncam2,MAE,2,no-UMI,Zebularine,7,1uM,0.013513514,2074,VG,
+Pea15a,MAE,2,no-UMI,Zebularine,7,20uM,0.866746699,833,VG,
+Pea15a,MAE,2,no-UMI,Zebularine,7,10uM,0.843454791,742,VG,
+Pea15a,MAE,2,no-UMI,Zebularine,7,1uM,0.805098128,8867,VG,
+Phka2,Xlinked,2,no-UMI,Zebularine,7,20uM,1,84,VG,
+Phka2,Xlinked,2,no-UMI,Zebularine,7,10uM,1,196,VG,
+Phka2,Xlinked,2,no-UMI,Zebularine,7,1uM,1,1471,VG,
+Pola1,Xlinked,2,no-UMI,Zebularine,7,20uM,1,620,VG,
+Pola1,Xlinked,2,no-UMI,Zebularine,7,10uM,1,642,VG,
+Pola1,Xlinked,2,no-UMI,Zebularine,7,1uM,1,3954,VG,
+Sash1,MAE,2,no-UMI,Zebularine,7,20uM,0.997067449,342,VG,
+Sash1,MAE,2,no-UMI,Zebularine,7,10uM,1,373,VG,
+Sash1,MAE,2,no-UMI,Zebularine,7,1uM,0.999516558,4137,VG,
+Smtnl2,MAE,2,no-UMI,Zebularine,7,20uM,0,45,VG,
+Smtnl2,MAE,2,no-UMI,Zebularine,7,10uM,0,74,VG,
+Smtnl2,MAE,2,no-UMI,Zebularine,7,1uM,0.037394451,831,VG,
+Spire1,MAE,2,no-UMI,Zebularine,7,20uM,1,19,VG,
+Spire1,MAE,2,no-UMI,Zebularine,7,10uM,1,25,VG,
+Spire1,MAE,2,no-UMI,Zebularine,7,1uM,0.990769231,325,VG,
+Adamtsl4,MAE,2,no-UMI,Zebularine,14,20uM,0.684210526,19,DIFFUSE DEAD,
+Adamtsl4,MAE,2,no-UMI,Zebularine,14,10uM,0.85060241,415,SPREAD OUT,
+Adamtsl4,MAE,2,no-UMI,Zebularine,14,1uM,0.73443299,2425,VG ,
+Adnp2,MAE,2,no-UMI,Zebularine,14,20uM,0.272727273,11,DIFFUSE DEAD,
+Adnp2,MAE,2,no-UMI,Zebularine,14,10uM,0.028368794,564,SPREAD OUT,
+Adnp2,MAE,2,no-UMI,Zebularine,14,1uM,0.010122536,1877,VG ,
+Afap1,MAE,2,no-UMI,Zebularine,14,20uM,0,2,DIFFUSE DEAD,
+Afap1,MAE,2,no-UMI,Zebularine,14,10uM,0.137299771,438,SPREAD OUT,
+Afap1,MAE,2,no-UMI,Zebularine,14,1uM,0.07278481,949,VG ,
+Casd1,MAE,2,no-UMI,Zebularine,14,20uM,0,2,DIFFUSE DEAD,
+Casd1,MAE,2,no-UMI,Zebularine,14,10uM,0.010852713,645,SPREAD OUT,
+Casd1,MAE,2,no-UMI,Zebularine,14,1uM,0.001250313,3999,VG ,
+Ccnj,BAE,2,no-UMI,Zebularine,14,20uM,0.8,5,DIFFUSE DEAD,
+Ccnj,BAE,2,no-UMI,Zebularine,14,10uM,0.423529412,680,SPREAD OUT,
+Ccnj,BAE,2,no-UMI,Zebularine,14,1uM,0.481462926,1997,VG ,
+Col6a5,MAE,2,no-UMI,Zebularine,14,20uM,1,3,DIFFUSE DEAD,
+Col6a5,MAE,2,no-UMI,Zebularine,14,10uM,0.825,320,SPREAD OUT,
+Col6a5,MAE,2,no-UMI,Zebularine,14,1uM,0.925423729,295,VG ,
+Dnajc12,MAE,2,no-UMI,Zebularine,14,20uM,1,2,DIFFUSE DEAD,
+Dnajc12,MAE,2,no-UMI,Zebularine,14,10uM,0.924836601,306,SPREAD OUT,
+Dnajc12,MAE,2,no-UMI,Zebularine,14,1uM,0.921110621,2269,VG ,
+Fam217b,MAE,2,no-UMI,Zebularine,14,20uM,1,1,DIFFUSE DEAD,
+Fam217b,MAE,2,no-UMI,Zebularine,14,10uM,1,208,SPREAD OUT,
+Fam217b,MAE,2,no-UMI,Zebularine,14,1uM,0.999065421,1070,VG ,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,14,20uM,1,56,DIFFUSE DEAD,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,14,10uM,0.998256321,1151,SPREAD OUT,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,14,1uM,0.999440152,62586,VG ,
+Hdlbp,BAE,2,no-UMI,Zebularine,14,20uM,NA,0,DIFFUSE DEAD,
+Hdlbp,BAE,2,no-UMI,Zebularine,14,10uM,NA,0,SPREAD OUT,
+Hdlbp,BAE,2,no-UMI,Zebularine,14,1uM,NA,0,VG ,
+Mecp2,Xlinked,2,no-UMI,Zebularine,14,20uM,1,8,DIFFUSE DEAD,
+Mecp2,Xlinked,2,no-UMI,Zebularine,14,10uM,0.998989899,990,SPREAD OUT,
+Mecp2,Xlinked,2,no-UMI,Zebularine,14,1uM,1,3845,VG ,
+Ncam2,MAE,2,no-UMI,Zebularine,14,20uM,0,2,DIFFUSE DEAD,
+Ncam2,MAE,2,no-UMI,Zebularine,14,10uM,0,38,SPREAD OUT,
+Ncam2,MAE,2,no-UMI,Zebularine,14,1uM,0.012396694,726,VG ,
+Pea15a,MAE,2,no-UMI,Zebularine,14,20uM,0.727272727,11,DIFFUSE DEAD,
+Pea15a,MAE,2,no-UMI,Zebularine,14,10uM,0.878818737,982,SPREAD OUT,
+Pea15a,MAE,2,no-UMI,Zebularine,14,1uM,0.9277927,6329,VG ,
+Phka2,Xlinked,2,no-UMI,Zebularine,14,20uM,1,3,DIFFUSE DEAD,
+Phka2,Xlinked,2,no-UMI,Zebularine,14,10uM,1,441,SPREAD OUT,
+Phka2,Xlinked,2,no-UMI,Zebularine,14,1uM,1,931,VG ,
+Pola1,Xlinked,2,no-UMI,Zebularine,14,20uM,1,3,DIFFUSE DEAD,
+Pola1,Xlinked,2,no-UMI,Zebularine,14,10uM,1,1046,SPREAD OUT,
+Pola1,Xlinked,2,no-UMI,Zebularine,14,1uM,1,1723,VG ,
+Sash1,MAE,2,no-UMI,Zebularine,14,20uM,1,9,DIFFUSE DEAD,
+Sash1,MAE,2,no-UMI,Zebularine,14,10uM,1,715,SPREAD OUT,
+Sash1,MAE,2,no-UMI,Zebularine,14,1uM,0.999465241,1870,VG ,
+Smtnl2,MAE,2,no-UMI,Zebularine,14,20uM,1,1,DIFFUSE DEAD,
+Smtnl2,MAE,2,no-UMI,Zebularine,14,10uM,0.18061674,238,SPREAD OUT,
+Smtnl2,MAE,2,no-UMI,Zebularine,14,1uM,0.032653061,245,VG ,
+Spire1,MAE,2,no-UMI,Zebularine,14,20uM,1,1,DIFFUSE DEAD,
+Spire1,MAE,2,no-UMI,Zebularine,14,10uM,1,29,SPREAD OUT,
+Spire1,MAE,2,no-UMI,Zebularine,14,1uM,0.927659574,235,VG ,
+Adamtsl4,MAE,2,no-UMI,Zebularine,21,20uM,1,2,DIFFUSE DEAD,
+Adamtsl4,MAE,2,no-UMI,Zebularine,21,10uM,0.85935085,648,G,
+Adamtsl4,MAE,2,no-UMI,Zebularine,21,1uM,0.746376812,3452,VG,
+Adnp2,MAE,2,no-UMI,Zebularine,21,20uM,0,2,DIFFUSE DEAD,
+Adnp2,MAE,2,no-UMI,Zebularine,21,10uM,0.018791946,745,G,
+Adnp2,MAE,2,no-UMI,Zebularine,21,1uM,0.00250501,1996,VG,
+Afap1,MAE,2,no-UMI,Zebularine,21,20uM,0,1,DIFFUSE DEAD,
+Afap1,MAE,2,no-UMI,Zebularine,21,10uM,0.024070022,457,G,
+Afap1,MAE,2,no-UMI,Zebularine,21,1uM,0.018867925,1380,VG,
+Casd1,MAE,2,no-UMI,Zebularine,21,20uM,0,2,DIFFUSE DEAD,
+Casd1,MAE,2,no-UMI,Zebularine,21,10uM,0.004608295,869,G,
+Casd1,MAE,2,no-UMI,Zebularine,21,1uM,0.005327245,2629,VG,
+Ccnj,BAE,2,no-UMI,Zebularine,21,20uM,1,1,DIFFUSE DEAD,
+Ccnj,BAE,2,no-UMI,Zebularine,21,10uM,0.585185185,541,G,
+Ccnj,BAE,2,no-UMI,Zebularine,21,1uM,0.489334195,1548,VG,
+Col6a5,MAE,2,no-UMI,Zebularine,21,20uM,NA,0,DIFFUSE DEAD,
+Col6a5,MAE,2,no-UMI,Zebularine,21,10uM,0.915254237,354,G,
+Col6a5,MAE,2,no-UMI,Zebularine,21,1uM,0.968253968,252,VG,
+Dnajc12,MAE,2,no-UMI,Zebularine,21,20uM,NA,0,DIFFUSE DEAD,
+Dnajc12,MAE,2,no-UMI,Zebularine,21,10uM,0.967213115,183,G,
+Dnajc12,MAE,2,no-UMI,Zebularine,21,1uM,0.930942388,2624,VG,
+Fam217b,MAE,2,no-UMI,Zebularine,21,20uM,NA,0,DIFFUSE DEAD,
+Fam217b,MAE,2,no-UMI,Zebularine,21,10uM,0.996466431,283,G,
+Fam217b,MAE,2,no-UMI,Zebularine,21,1uM,1,668,VG,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,21,20uM,1,48,DIFFUSE DEAD,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,21,10uM,1,232,G,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,21,1uM,0.999466401,84428,VG,
+Hdlbp,BAE,2,no-UMI,Zebularine,21,20uM,NA,0,DIFFUSE DEAD,
+Hdlbp,BAE,2,no-UMI,Zebularine,21,10uM,NA,0,G,
+Hdlbp,BAE,2,no-UMI,Zebularine,21,1uM,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,Zebularine,21,20uM,1,4,DIFFUSE DEAD,
+Mecp2,Xlinked,2,no-UMI,Zebularine,21,10uM,1,953,G,
+Mecp2,Xlinked,2,no-UMI,Zebularine,21,1uM,1,4738,VG,
+Ncam2,MAE,2,no-UMI,Zebularine,21,20uM,0,1,DIFFUSE DEAD,
+Ncam2,MAE,2,no-UMI,Zebularine,21,10uM,0,52,G,
+Ncam2,MAE,2,no-UMI,Zebularine,21,1uM,0,500,VG,
+Pea15a,MAE,2,no-UMI,Zebularine,21,20uM,1,1,DIFFUSE DEAD,
+Pea15a,MAE,2,no-UMI,Zebularine,21,10uM,0.880931838,1160,G,
+Pea15a,MAE,2,no-UMI,Zebularine,21,1uM,0.93613912,6845,VG,
+Phka2,Xlinked,2,no-UMI,Zebularine,21,20uM,1,1,DIFFUSE DEAD,
+Phka2,Xlinked,2,no-UMI,Zebularine,21,10uM,1,670,G,
+Phka2,Xlinked,2,no-UMI,Zebularine,21,1uM,1,735,VG,
+Pola1,Xlinked,2,no-UMI,Zebularine,21,20uM,1,1,DIFFUSE DEAD,
+Pola1,Xlinked,2,no-UMI,Zebularine,21,10uM,1,2289,G,
+Pola1,Xlinked,2,no-UMI,Zebularine,21,1uM,0.999624484,2664,VG,
+Sash1,MAE,2,no-UMI,Zebularine,21,20uM,NA,0,DIFFUSE DEAD,
+Sash1,MAE,2,no-UMI,Zebularine,21,10uM,0.997918835,962,G,
+Sash1,MAE,2,no-UMI,Zebularine,21,1uM,0.999641191,2787,VG,
+Smtnl2,MAE,2,no-UMI,Zebularine,21,20uM,NA,0,DIFFUSE DEAD,
+Smtnl2,MAE,2,no-UMI,Zebularine,21,10uM,0.065671642,335,G,
+Smtnl2,MAE,2,no-UMI,Zebularine,21,1uM,0.074074074,270,VG,
+Spire1,MAE,2,no-UMI,Zebularine,21,20uM,NA,0,DIFFUSE DEAD,
+Spire1,MAE,2,no-UMI,Zebularine,21,10uM,1,20,G,
+Spire1,MAE,2,no-UMI,Zebularine,21,1uM,0.890909091,330,VG,
+Adamtsl4,MAE,2,no-UMI,Zebularine,28,20uM,0.8,5,DIFFUSE DEAD,
+Adamtsl4,MAE,2,no-UMI,Zebularine,28,10uM,0.899575672,1414,VG,
+Adamtsl4,MAE,2,no-UMI,Zebularine,28,1uM,0.871833648,5294,VG,
+Adnp2,MAE,2,no-UMI,Zebularine,28,20uM,0,2,DIFFUSE DEAD,
+Adnp2,MAE,2,no-UMI,Zebularine,28,10uM,0.006410256,624,VG,
+Adnp2,MAE,2,no-UMI,Zebularine,28,1uM,0.007017544,4561,VG,
+Afap1,MAE,2,no-UMI,Zebularine,28,20uM,0,2,DIFFUSE DEAD,
+Afap1,MAE,2,no-UMI,Zebularine,28,10uM,0.035294118,596,VG,
+Afap1,MAE,2,no-UMI,Zebularine,28,1uM,0.052663623,3288,VG,
+Casd1,MAE,2,no-UMI,Zebularine,28,20uM,0,9,DIFFUSE DEAD,
+Casd1,MAE,2,no-UMI,Zebularine,28,10uM,0.008023649,2370,VG,
+Casd1,MAE,2,no-UMI,Zebularine,28,1uM,0.005022181,11952,VG,
+Ccnj,BAE,2,no-UMI,Zebularine,28,20uM,0.75,4,DIFFUSE DEAD,
+Ccnj,BAE,2,no-UMI,Zebularine,28,10uM,0.448675497,607,VG,
+Ccnj,BAE,2,no-UMI,Zebularine,28,1uM,0.655656796,2635,VG,
+Col6a5,MAE,2,no-UMI,Zebularine,28,20uM,1,2,DIFFUSE DEAD,
+Col6a5,MAE,2,no-UMI,Zebularine,28,10uM,0.992594977,3108,VG,
+Col6a5,MAE,2,no-UMI,Zebularine,28,1uM,0.984489796,4903,VG,
+Dnajc12,MAE,2,no-UMI,Zebularine,28,20uM,1,4,DIFFUSE DEAD,
+Dnajc12,MAE,2,no-UMI,Zebularine,28,10uM,0.964241677,811,VG,
+Dnajc12,MAE,2,no-UMI,Zebularine,28,1uM,0.972062027,7809,VG,
+Fam217b,MAE,2,no-UMI,Zebularine,28,20uM,NA,0,DIFFUSE DEAD,
+Fam217b,MAE,2,no-UMI,Zebularine,28,10uM,1,413,VG,
+Fam217b,MAE,2,no-UMI,Zebularine,28,1uM,0.999614792,2597,VG,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,28,20uM,1,112,DIFFUSE DEAD,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,28,10uM,1,725,VG,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,28,1uM,0.999269478,235697,VG,
+Hdlbp,BAE,2,no-UMI,Zebularine,28,20uM,NA,0,DIFFUSE DEAD,
+Hdlbp,BAE,2,no-UMI,Zebularine,28,10uM,NA,0,VG,
+Hdlbp,BAE,2,no-UMI,Zebularine,28,1uM,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,Zebularine,28,20uM,1,6,DIFFUSE DEAD,
+Mecp2,Xlinked,2,no-UMI,Zebularine,28,10uM,0.999341672,1519,VG,
+Mecp2,Xlinked,2,no-UMI,Zebularine,28,1uM,0.9996708,9115,VG,
+Ncam2,MAE,2,no-UMI,Zebularine,28,20uM,0,2,DIFFUSE DEAD,
+Ncam2,MAE,2,no-UMI,Zebularine,28,10uM,0.122699387,163,VG,
+Ncam2,MAE,2,no-UMI,Zebularine,28,1uM,0.000764526,1309,VG,
+Pea15a,MAE,2,no-UMI,Zebularine,28,20uM,0.777777778,9,DIFFUSE DEAD,
+Pea15a,MAE,2,no-UMI,Zebularine,28,10uM,0.763294423,1542,VG,
+Pea15a,MAE,2,no-UMI,Zebularine,28,1uM,0.941942348,19741,VG,
+Phka2,Xlinked,2,no-UMI,Zebularine,28,20uM,1,1,DIFFUSE DEAD,
+Phka2,Xlinked,2,no-UMI,Zebularine,28,10uM,1,325,VG,
+Phka2,Xlinked,2,no-UMI,Zebularine,28,1uM,1,1176,VG,
+Pola1,Xlinked,2,no-UMI,Zebularine,28,20uM,1,3,DIFFUSE DEAD,
+Pola1,Xlinked,2,no-UMI,Zebularine,28,10uM,1,1085,VG,
+Pola1,Xlinked,2,no-UMI,Zebularine,28,1uM,0.998652551,5198,VG,
+Sash1,MAE,2,no-UMI,Zebularine,28,20uM,1,7,DIFFUSE DEAD,
+Sash1,MAE,2,no-UMI,Zebularine,28,10uM,1,1584,VG,
+Sash1,MAE,2,no-UMI,Zebularine,28,1uM,0.999755899,12292,VG,
+Smtnl2,MAE,2,no-UMI,Zebularine,28,20uM,0,2,DIFFUSE DEAD,
+Smtnl2,MAE,2,no-UMI,Zebularine,28,10uM,0.003160556,1582,VG,
+Smtnl2,MAE,2,no-UMI,Zebularine,28,1uM,0.013559322,1772,VG,
+Spire1,MAE,2,no-UMI,Zebularine,28,20uM,NA,0,DIFFUSE DEAD,
+Spire1,MAE,2,no-UMI,Zebularine,28,10uM,1,81,VG,
+Spire1,MAE,2,no-UMI,Zebularine,28,1uM,0.926372155,747,VG,
+Adamtsl4,MAE,2,no-UMI,Zebularine,35,20uM,NA,0,DIFFUSE DARK,
+Adamtsl4,MAE,2,no-UMI,Zebularine,35,10uM,0.844104308,1764,VG,
+Adamtsl4,MAE,2,no-UMI,Zebularine,35,1uM,0.829022989,1392,VG,
+Adnp2,MAE,2,no-UMI,Zebularine,35,20uM,NA,0,DIFFUSE DARK,
+Adnp2,MAE,2,no-UMI,Zebularine,35,10uM,0.001390821,1438,VG,
+Adnp2,MAE,2,no-UMI,Zebularine,35,1uM,0.001886792,1060,VG,
+Afap1,MAE,2,no-UMI,Zebularine,35,20uM,NA,0,DIFFUSE DARK,
+Afap1,MAE,2,no-UMI,Zebularine,35,10uM,0.036885246,1222,VG,
+Afap1,MAE,2,no-UMI,Zebularine,35,1uM,0.086477987,638,VG,
+Casd1,MAE,2,no-UMI,Zebularine,35,20uM,0,1,DIFFUSE DARK,
+Casd1,MAE,2,no-UMI,Zebularine,35,10uM,0.002572347,1555,VG,
+Casd1,MAE,2,no-UMI,Zebularine,35,1uM,0.009950249,1408,VG,
+Ccnj,BAE,2,no-UMI,Zebularine,35,20uM,1,1,DIFFUSE DARK,
+Ccnj,BAE,2,no-UMI,Zebularine,35,10uM,0.509333333,1500,VG,
+Ccnj,BAE,2,no-UMI,Zebularine,35,1uM,0.458456973,1348,VG,
+Col6a5,MAE,2,no-UMI,Zebularine,35,20uM,NA,0,DIFFUSE DARK,
+Col6a5,MAE,2,no-UMI,Zebularine,35,10uM,0.990611961,2876,VG,
+Col6a5,MAE,2,no-UMI,Zebularine,35,1uM,0.988986784,1818,VG,
+Dnajc12,MAE,2,no-UMI,Zebularine,35,20uM,1,3,DIFFUSE DARK,
+Dnajc12,MAE,2,no-UMI,Zebularine,35,10uM,0.983002833,1060,VG,
+Dnajc12,MAE,2,no-UMI,Zebularine,35,1uM,0.97412481,1315,VG,
+Fam217b,MAE,2,no-UMI,Zebularine,35,20uM,NA,0,DIFFUSE DARK,
+Fam217b,MAE,2,no-UMI,Zebularine,35,10uM,1,471,VG,
+Fam217b,MAE,2,no-UMI,Zebularine,35,1uM,1,387,VG,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,35,20uM,1,43,DIFFUSE DARK,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,35,10uM,0.999537857,12998,VG,
+H2-Ea-ps,MAE,2,no-UMI,Zebularine,35,1uM,0.999374919,46443,VG,
+Hdlbp,BAE,2,no-UMI,Zebularine,35,20uM,NA,0,DIFFUSE DARK,
+Hdlbp,BAE,2,no-UMI,Zebularine,35,10uM,NA,0,VG,
+Hdlbp,BAE,2,no-UMI,Zebularine,35,1uM,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,Zebularine,35,20uM,1,3,DIFFUSE DARK,
+Mecp2,Xlinked,2,no-UMI,Zebularine,35,10uM,1,3204,VG,
+Mecp2,Xlinked,2,no-UMI,Zebularine,35,1uM,0.999267936,2734,VG,
+Ncam2,MAE,2,no-UMI,Zebularine,35,20uM,NA,0,DIFFUSE DARK,
+Ncam2,MAE,2,no-UMI,Zebularine,35,10uM,0,272,VG,
+Ncam2,MAE,2,no-UMI,Zebularine,35,1uM,0,203,VG,
+Pea15a,MAE,2,no-UMI,Zebularine,35,20uM,0.8,5,DIFFUSE DARK,
+Pea15a,MAE,2,no-UMI,Zebularine,35,10uM,0.892125352,4980,VG,
+Pea15a,MAE,2,no-UMI,Zebularine,35,1uM,0.909537167,4280,VG,
+Phka2,Xlinked,2,no-UMI,Zebularine,35,20uM,NA,0,DIFFUSE DARK,
+Phka2,Xlinked,2,no-UMI,Zebularine,35,10uM,0.997807018,457,VG,
+Phka2,Xlinked,2,no-UMI,Zebularine,35,1uM,1,303,VG,
+Pola1,Xlinked,2,no-UMI,Zebularine,35,20uM,NA,0,DIFFUSE DARK,
+Pola1,Xlinked,2,no-UMI,Zebularine,35,10uM,0.999369483,1586,VG,
+Pola1,Xlinked,2,no-UMI,Zebularine,35,1uM,1,1063,VG,
+Sash1,MAE,2,no-UMI,Zebularine,35,20uM,1,2,DIFFUSE DARK,
+Sash1,MAE,2,no-UMI,Zebularine,35,10uM,1,2104,VG,
+Sash1,MAE,2,no-UMI,Zebularine,35,1uM,1,2085,VG,
+Smtnl2,MAE,2,no-UMI,Zebularine,35,20uM,NA,0,DIFFUSE DARK,
+Smtnl2,MAE,2,no-UMI,Zebularine,35,10uM,0.027310924,476,VG,
+Smtnl2,MAE,2,no-UMI,Zebularine,35,1uM,0.023255814,258,VG,
+Spire1,MAE,2,no-UMI,Zebularine,35,20uM,1,1,DIFFUSE DARK,
+Spire1,MAE,2,no-UMI,Zebularine,35,10uM,1,98,VG,
+Spire1,MAE,2,no-UMI,Zebularine,35,1uM,0.99009901,101,VG,
+Adamtsl4,MAE,1,no-UMI,Zebularine,7,1uM,0.930009229,40162,,
+Adamtsl4,MAE,1,no-UMI,Zebularine,7,10uM,0.919043201,24851,,
+Adamtsl4,MAE,1,no-UMI,Zebularine,7,20uM,0.917127072,363,,
+Adnp2,MAE,1,no-UMI,Zebularine,7,1uM,0.008522727,8800,,
+Adnp2,MAE,1,no-UMI,Zebularine,7,10uM,0.030937369,11898,,
+Adnp2,MAE,1,no-UMI,Zebularine,7,20uM,0.040816327,98,,
+Afap1,MAE,1,no-UMI,Zebularine,7,1uM,1,2,,
+Afap1,MAE,1,no-UMI,Zebularine,7,10uM,0,3,,
+Afap1,MAE,1,no-UMI,Zebularine,7,20uM,NA,0,,
+Cacnb2,MAE,1,no-UMI,Zebularine,7,1uM,0.285714286,42,,
+Cacnb2,MAE,1,no-UMI,Zebularine,7,10uM,0.771428571,35,,
+Cacnb2,MAE,1,no-UMI,Zebularine,7,20uM,NA,0,,
+Casd1,MAE,1,no-UMI,Zebularine,7,1uM,0,6,,
+Casd1,MAE,1,no-UMI,Zebularine,7,10uM,0,8,,
+Casd1,MAE,1,no-UMI,Zebularine,7,20uM,NA,0,,
+Ccnj,BAE,1,no-UMI,Zebularine,7,1uM,0.43575419,180,,
+Ccnj,BAE,1,no-UMI,Zebularine,7,10uM,0.069892473,561,,
+Ccnj,BAE,1,no-UMI,Zebularine,7,20uM,0.625,8,,
+Col6a5,MAE,1,no-UMI,Zebularine,7,1uM,0.986754967,152,,
+Col6a5,MAE,1,no-UMI,Zebularine,7,10uM,0.787234043,47,,
+Col6a5,MAE,1,no-UMI,Zebularine,7,20uM,1,1,,
+Dnajc12,MAE,1,no-UMI,Zebularine,7,1uM,1,169,,
+Dnajc12,MAE,1,no-UMI,Zebularine,7,10uM,0.95,120,,
+Dnajc12,MAE,1,no-UMI,Zebularine,7,20uM,1,28,,
+Fam217b,MAE,1,no-UMI,Zebularine,7,1uM,0.000290324,24131,,
+Fam217b,MAE,1,no-UMI,Zebularine,7,10uM,0.000359454,33415,,
+Fam217b,MAE,1,no-UMI,Zebularine,7,20uM,0,218,,
+H2-Ea-ps,MAE,1,no-UMI,Zebularine,7,1uM,0.999923154,13032,,
+H2-Ea-ps,MAE,1,no-UMI,Zebularine,7,10uM,0.999683644,9500,,
+H2-Ea-ps,MAE,1,no-UMI,Zebularine,7,20uM,1,130,,
+Hdlbp,BAE,1,no-UMI,Zebularine,7,1uM,0.574701556,8313,,
+Hdlbp,BAE,1,no-UMI,Zebularine,7,10uM,0.443049491,5515,,
+Hdlbp,BAE,1,no-UMI,Zebularine,7,20uM,0.5875,80,,
+Mecp2,Xlinked,1,no-UMI,Zebularine,7,1uM,1,2008,,
+Mecp2,Xlinked,1,no-UMI,Zebularine,7,10uM,0.999630587,2713,,
+Mecp2,Xlinked,1,no-UMI,Zebularine,7,20uM,1,30,,
+Ncam2,MAE,1,no-UMI,Zebularine,7,1uM,0.001485884,673,,
+Ncam2,MAE,1,no-UMI,Zebularine,7,10uM,0,309,,
+Ncam2,MAE,1,no-UMI,Zebularine,7,20uM,0,5,,
+Pea15a,MAE,1,no-UMI,Zebularine,7,1uM,0.868874172,758,,
+Pea15a,MAE,1,no-UMI,Zebularine,7,10uM,0.957602339,686,,
+Pea15a,MAE,1,no-UMI,Zebularine,7,20uM,NA,0,,
+Phka2,Xlinked,1,no-UMI,Zebularine,7,1uM,1,66,,
+Phka2,Xlinked,1,no-UMI,Zebularine,7,10uM,1,30,,
+Phka2,Xlinked,1,no-UMI,Zebularine,7,20uM,1,2,,
+Pola1,Xlinked,1,no-UMI,Zebularine,7,1uM,1,68,,
+Pola1,Xlinked,1,no-UMI,Zebularine,7,10uM,1,702,,
+Pola1,Xlinked,1,no-UMI,Zebularine,7,20uM,1,5,,
+Sash1,MAE,1,no-UMI,Zebularine,7,1uM,0.999650899,17231,,
+Sash1,MAE,1,no-UMI,Zebularine,7,10uM,0.999944931,18201,,
+Sash1,MAE,1,no-UMI,Zebularine,7,20uM,1,467,,
+Smtnl2,MAE,1,no-UMI,Zebularine,7,1uM,0.00771233,10394,,
+Smtnl2,MAE,1,no-UMI,Zebularine,7,10uM,0,934,,
+Smtnl2,MAE,1,no-UMI,Zebularine,7,20uM,0,29,,
+Spire1,MAE,1,no-UMI,Zebularine,7,1uM,0.945137157,401,,
+Spire1,MAE,1,no-UMI,Zebularine,7,10uM,0.788546256,227,,
+Spire1,MAE,1,no-UMI,Zebularine,7,20uM,1,3,,
+Tmem104,BAE,1,no-UMI,Zebularine,7,1uM,0.464285714,57,,
+Tmem104,BAE,1,no-UMI,Zebularine,7,10uM,0.465277778,144,,
+Tmem104,BAE,1,no-UMI,Zebularine,7,20uM,NA,0,,
+3830406C13Rik,MAE,2,UMI,Zebularine ,7,20uM,0,27,VG,180
+3830406C13Rik,MAE,2,UMI,Zebularine ,7,10uM,0,51,VG,179
+3830406C13Rik,MAE,2,UMI,Zebularine ,7,1uM,0,130,VG,1691
+Adamtsl4,MAE,2,UMI,Zebularine ,7,20uM,1,10,VG,333
+Adamtsl4,MAE,2,UMI,Zebularine ,7,10uM,1,25,VG,405
+Adamtsl4,MAE,2,UMI,Zebularine ,7,1uM,0.963302752,109,VG,5802
+Adnp2,MAE,2,UMI,Zebularine ,7,20uM,0,28,VG,401
+Adnp2,MAE,2,UMI,Zebularine ,7,10uM,0,63,VG,495
+Adnp2,MAE,2,UMI,Zebularine ,7,1uM,0,123,VG,4469
+Dlc1,MAE,2,UMI,Zebularine ,7,20uM,0.8125,16,VG,168
+Dlc1,MAE,2,UMI,Zebularine ,7,10uM,0.893617021,47,VG,169
+Dlc1,MAE,2,UMI,Zebularine ,7,1uM,0.923611111,144,VG,2014
+Dnajc12,MAE,2,UMI,Zebularine ,7,20uM,0.897959184,49,VG,627
+Dnajc12,MAE,2,UMI,Zebularine ,7,10uM,0.939393939,99,VG,653
+Dnajc12,MAE,2,UMI,Zebularine ,7,1uM,0.938888889,360,VG,10016
+Gprasp1,X-Linked,2,UMI,Zebularine ,7,20uM,1,24,VG,132
+Gprasp1,X-Linked,2,UMI,Zebularine ,7,10uM,1,67,VG,173
+Gprasp1,X-Linked,2,UMI,Zebularine ,7,1uM,0.996240602,267,VG,3433
+Slc25a37,BAE,2,UMI,Zebularine ,7,20uM,0.391304348,69,VG,343
+Slc25a37,BAE,2,UMI,Zebularine ,7,10uM,0.528301887,212,VG,476
+Slc25a37,BAE,2,UMI,Zebularine ,7,1uM,0.492682927,615,VG,6339
+Smtnl2,MAE,2,UMI,Zebularine ,7,20uM,0,4,VG,74
+Smtnl2,MAE,2,UMI,Zebularine ,7,10uM,0,12,VG,127
+Smtnl2,MAE,2,UMI,Zebularine ,7,1uM,0.038461538,26,VG,1116
+Tpst1,MAE,2,UMI,Zebularine ,7,20uM,0,7,VG,44
+Tpst1,MAE,2,UMI,Zebularine ,7,10uM,0,16,VG,63
+Tpst1,MAE,2,UMI,Zebularine ,7,1uM,0.023809524,42,VG,455
+3830406C13Rik,MAE,2,UMI,Zebularine ,14,20uM,NA,0,DIFFUSE DEAD,NA
+3830406C13Rik,MAE,2,UMI,Zebularine ,14,10uM,0,38,SPREAD OUT,148
+3830406C13Rik,MAE,2,UMI,Zebularine ,14,1uM,0,120,VG ,480
+Adamtsl4,MAE,2,UMI,Zebularine ,14,20uM,NA,0,DIFFUSE DEAD,15
+Adamtsl4,MAE,2,UMI,Zebularine ,14,10uM,1,19,SPREAD OUT,450
+Adamtsl4,MAE,2,UMI,Zebularine ,14,1uM,0.987804878,82,VG ,2517
+Adnp2,MAE,2,UMI,Zebularine ,14,20uM,NA,0,DIFFUSE DEAD,8
+Adnp2,MAE,2,UMI,Zebularine ,14,10uM,0,51,SPREAD OUT,681
+Adnp2,MAE,2,UMI,Zebularine ,14,1uM,0,152,VG ,2264
+Dlc1,MAE,2,UMI,Zebularine ,14,20uM,1,1,DIFFUSE DEAD,1
+Dlc1,MAE,2,UMI,Zebularine ,14,10uM,0.827586207,58,SPREAD OUT,292
+Dlc1,MAE,2,UMI,Zebularine ,14,1uM,0.73880597,268,VG ,1340
+Dnajc12,MAE,2,UMI,Zebularine ,14,20uM,NA,0,DIFFUSE DEAD,1
+Dnajc12,MAE,2,UMI,Zebularine ,14,10uM,0.932432432,74,SPREAD OUT,681
+Dnajc12,MAE,2,UMI,Zebularine ,14,1uM,0.942231076,502,VG ,5145
+Gprasp1,X-Linked,2,UMI,Zebularine ,14,20uM,NA,0,DIFFUSE DEAD,NA
+Gprasp1,X-Linked,2,UMI,Zebularine ,14,10uM,1,39,SPREAD OUT,173
+Gprasp1,X-Linked,2,UMI,Zebularine ,14,1uM,1,247,VG ,1146
+Slc25a37,BAE,2,UMI,Zebularine ,14,20uM,0.5,6,DIFFUSE DEAD,0
+Slc25a37,BAE,2,UMI,Zebularine ,14,10uM,0.549668874,153,SPREAD OUT,431
+Slc25a37,BAE,2,UMI,Zebularine ,14,1uM,0.488795518,716,VG ,2296
+Smtnl2,MAE,2,UMI,Zebularine ,14,20uM,NA,0,DIFFUSE DEAD,0
+Smtnl2,MAE,2,UMI,Zebularine ,14,10uM,0.1,10,SPREAD OUT,287
+Smtnl2,MAE,2,UMI,Zebularine ,14,1uM,0,16,VG ,324
+Tpst1,MAE,2,UMI,Zebularine ,14,20uM,0,1,DIFFUSE DEAD,0
+Tpst1,MAE,2,UMI,Zebularine ,14,10uM,0,4,SPREAD OUT,20
+Tpst1,MAE,2,UMI,Zebularine ,14,1uM,0.096385542,83,VG ,257
+3830406C13Rik,MAE,2,UMI,Zebularine ,21,20uM,NA,0,DIFFUSE DEAD,NA
+3830406C13Rik,MAE,2,UMI,Zebularine ,21,10uM,0,59,G,120
+3830406C13Rik,MAE,2,UMI,Zebularine ,21,1uM,0,115,VG,696
+Adamtsl4,MAE,2,UMI,Zebularine ,21,20uM,1,1,DIFFUSE DEAD,1
+Adamtsl4,MAE,2,UMI,Zebularine ,21,10uM,1,38,G,633
+Adamtsl4,MAE,2,UMI,Zebularine ,21,1uM,0.978723404,94,VG,3528
+Adnp2,MAE,2,UMI,Zebularine ,21,20uM,NA,0,DIFFUSE DEAD,1
+Adnp2,MAE,2,UMI,Zebularine ,21,10uM,0,88,G,855
+Adnp2,MAE,2,UMI,Zebularine ,21,1uM,0,137,VG,2509
+Dlc1,MAE,2,UMI,Zebularine ,21,20uM,0.5,2,DIFFUSE DEAD,0
+Dlc1,MAE,2,UMI,Zebularine ,21,10uM,0.8,65,G,178
+Dlc1,MAE,2,UMI,Zebularine ,21,1uM,0.8125,160,VG,1033
+Dnajc12,MAE,2,UMI,Zebularine ,21,20uM,1,2,DIFFUSE DEAD,0
+Dnajc12,MAE,2,UMI,Zebularine ,21,10uM,0.923076923,65,G,402
+Dnajc12,MAE,2,UMI,Zebularine ,21,1uM,0.922279793,386,VG,5609
+Gprasp1,X-Linked,2,UMI,Zebularine ,21,20uM,NA,0,DIFFUSE DEAD,NA
+Gprasp1,X-Linked,2,UMI,Zebularine ,21,10uM,1,113,G,360
+Gprasp1,X-Linked,2,UMI,Zebularine ,21,1uM,0.994708995,190,VG,1208
+Slc25a37,BAE,2,UMI,Zebularine ,21,20uM,0.5,2,DIFFUSE DEAD,0
+Slc25a37,BAE,2,UMI,Zebularine ,21,10uM,0.503333333,303,G,535
+Slc25a37,BAE,2,UMI,Zebularine ,21,1uM,0.469964664,283,VG,1191
+Smtnl2,MAE,2,UMI,Zebularine ,21,20uM,NA,0,DIFFUSE DEAD,NA
+Smtnl2,MAE,2,UMI,Zebularine ,21,10uM,0.036363636,55,G,438
+Smtnl2,MAE,2,UMI,Zebularine ,21,1uM,0.115384615,26,VG,410
+Tpst1,MAE,2,UMI,Zebularine ,21,20uM,0,1,DIFFUSE DEAD,0
+Tpst1,MAE,2,UMI,Zebularine ,21,10uM,0,4,G,14
+Tpst1,MAE,2,UMI,Zebularine ,21,1uM,0.1375,80,VG,431
+3830406C13Rik,MAE,2,UMI,Zebularine ,28,20uM,0,2,DIFFUSE DEAD,0
+3830406C13Rik,MAE,2,UMI,Zebularine ,28,10uM,0,82,VG,186
+3830406C13Rik,MAE,2,UMI,Zebularine ,28,1uM,0,192,VG,2289
+Adamtsl4,MAE,2,UMI,Zebularine ,28,20uM,1,1,DIFFUSE DEAD,3
+Adamtsl4,MAE,2,UMI,Zebularine ,28,10uM,0.9625,80,VG,1553
+Adamtsl4,MAE,2,UMI,Zebularine ,28,1uM,0.992424242,132,VG,6444
+Adnp2,MAE,2,UMI,Zebularine ,28,20uM,0,4,DIFFUSE DEAD,2
+Adnp2,MAE,2,UMI,Zebularine ,28,10uM,0,83,VG,745
+Adnp2,MAE,2,UMI,Zebularine ,28,1uM,0,208,VG,6091
+Dlc1,MAE,2,UMI,Zebularine ,28,20uM,1,2,DIFFUSE DEAD,0
+Dlc1,MAE,2,UMI,Zebularine ,28,10uM,0.838509317,161,VG,368
+Dlc1,MAE,2,UMI,Zebularine ,28,1uM,0.768878719,437,VG,4817
+Dnajc12,MAE,2,UMI,Zebularine ,28,20uM,1,3,DIFFUSE DEAD,5
+Dnajc12,MAE,2,UMI,Zebularine ,28,10uM,0.965648855,262,VG,1472
+Dnajc12,MAE,2,UMI,Zebularine ,28,1uM,0.961474037,597,VG,16698
+Gprasp1,X-Linked,2,UMI,Zebularine ,28,20uM,1,2,DIFFUSE DEAD,0
+Gprasp1,X-Linked,2,UMI,Zebularine ,28,10uM,1,263,VG,497
+Gprasp1,X-Linked,2,UMI,Zebularine ,28,1uM,0.994535519,366,VG,4395
+Slc25a37,BAE,2,UMI,Zebularine ,28,20uM,0.5,8,DIFFUSE DEAD,0
+Slc25a37,BAE,2,UMI,Zebularine ,28,10uM,0.449848024,329,VG,167
+Slc25a37,BAE,2,UMI,Zebularine ,28,1uM,0.445698166,711,VG,2383
+Smtnl2,MAE,2,UMI,Zebularine ,28,20uM,0,2,DIFFUSE DEAD,1
+Smtnl2,MAE,2,UMI,Zebularine ,28,10uM,0.010638298,188,VG,1993
+Smtnl2,MAE,2,UMI,Zebularine ,28,1uM,0.039473684,76,VG,2490
+Tpst1,MAE,2,UMI,Zebularine ,28,20uM,NA,0,DIFFUSE DEAD,NA
+Tpst1,MAE,2,UMI,Zebularine ,28,10uM,0,30,VG,85
+Tpst1,MAE,2,UMI,Zebularine ,28,1uM,0.013513514,74,VG,739
+3830406C13Rik,MAE,2,UMI,Zebularine ,35,20uM,NA,0,DIFFUSE DARK,NA
+3830406C13Rik,MAE,2,UMI,Zebularine ,35,10uM,0,103,VG,303
+3830406C13Rik,MAE,2,UMI,Zebularine ,35,1uM,0,54,VG,149
+Adamtsl4,MAE,2,UMI,Zebularine ,35,20uM,NA,0,DIFFUSE DARK,NA
+Adamtsl4,MAE,2,UMI,Zebularine ,35,10uM,0.942857143,70,VG,1939
+Adamtsl4,MAE,2,UMI,Zebularine ,35,1uM,0.974358974,78,VG,1597
+Adnp2,MAE,2,UMI,Zebularine ,35,20uM,NA,0,DIFFUSE DARK,NA
+Adnp2,MAE,2,UMI,Zebularine ,35,10uM,0.009090909,110,VG,1643
+Adnp2,MAE,2,UMI,Zebularine ,35,1uM,0,109,VG,1276
+Dlc1,MAE,2,UMI,Zebularine ,35,20uM,1,1,DIFFUSE DARK,0
+Dlc1,MAE,2,UMI,Zebularine ,35,10uM,0.807017544,171,VG,593
+Dlc1,MAE,2,UMI,Zebularine ,35,1uM,0.802197802,184,VG,506
+Dnajc12,MAE,2,UMI,Zebularine ,35,20uM,1,1,DIFFUSE DARK,2
+Dnajc12,MAE,2,UMI,Zebularine ,35,10uM,0.987903226,248,VG,1897
+Dnajc12,MAE,2,UMI,Zebularine ,35,1uM,0.986928105,306,VG,2633
+Gprasp1,X-Linked,2,UMI,Zebularine ,35,20uM,NA,0,DIFFUSE DARK,NA
+Gprasp1,X-Linked,2,UMI,Zebularine ,35,10uM,1,191,VG,543
+Gprasp1,X-Linked,2,UMI,Zebularine ,35,1uM,1,111,VG,331
+Slc25a37,BAE,2,UMI,Zebularine ,35,20uM,1,1,DIFFUSE DARK,0
+Slc25a37,BAE,2,UMI,Zebularine ,35,10uM,0.418461538,325,VG,278
+Slc25a37,BAE,2,UMI,Zebularine ,35,1uM,0.465116279,216,VG,181
+Smtnl2,MAE,2,UMI,Zebularine ,35,20uM,NA,0,DIFFUSE DARK,NA
+Smtnl2,MAE,2,UMI,Zebularine ,35,10uM,0.047619048,21,VG,561
+Smtnl2,MAE,2,UMI,Zebularine ,35,1uM,0,19,VG,361
+Tpst1,MAE,2,UMI,Zebularine ,35,20uM,NA,0,DIFFUSE DARK,NA
+Tpst1,MAE,2,UMI,Zebularine ,35,10uM,0,21,VG,80
+Tpst1,MAE,2,UMI,Zebularine ,35,1uM,0.047619048,21,VG,64
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,7,20uM,1,4,DIFFUSE,
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,7,10uM,0.5,4,DIFFUSE,
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,7,1uM,0.906825297,7986,VG,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,7,20uM,0,3,DIFFUSE,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,7,10uM,0,3,DIFFUSE,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,7,1uM,0.031578947,2755,VG,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,7,20uM,NA,0,DIFFUSE,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,7,10uM,0,1,DIFFUSE,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,7,1uM,0.014925373,1811,VG,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,7,20uM,0,7,DIFFUSE,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,7,10uM,0,4,DIFFUSE,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,7,1uM,0.004244782,2828,VG,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,7,20uM,1,1,DIFFUSE,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,7,10uM,0.333333333,9,DIFFUSE,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,7,1uM,0.534448161,4491,VG,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,7,20uM,1,2,DIFFUSE,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,7,10uM,NA,0,DIFFUSE,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,7,1uM,0.978682171,517,VG,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,7,20uM,1,2,DIFFUSE,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,7,10uM,1,2,DIFFUSE,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,7,1uM,0.972575517,5033,VG,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,7,20uM,1,3,DIFFUSE,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,7,10uM,1,5,DIFFUSE,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,7,1uM,0.999386503,1630,VG,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,7,20uM,1,42,DIFFUSE,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,7,10uM,0.976744186,43,DIFFUSE,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,7,1uM,0.999469074,3770,VG,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,7,20uM,NA,0,DIFFUSE,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,7,10uM,NA,0,DIFFUSE,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,7,1uM,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,7,20uM,1,7,DIFFUSE,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,7,10uM,1,6,DIFFUSE,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,7,1uM,1,6988,VG,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,7,20uM,NA,0,DIFFUSE,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,7,10uM,NA,0,DIFFUSE,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,7,1uM,0.020296643,1282,VG,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,7,20uM,1,3,DIFFUSE,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,7,10uM,0.727272727,11,DIFFUSE,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,7,1uM,0.867843711,9574,VG,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,7,20uM,NA,0,DIFFUSE,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,7,10uM,1,3,DIFFUSE,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,7,1uM,1,1192,VG,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,7,20uM,1,2,DIFFUSE,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,7,10uM,1,3,DIFFUSE,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,7,1uM,1,1827,VG,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,7,20uM,1,2,DIFFUSE,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,7,10uM,1,9,DIFFUSE,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,7,1uM,1,4391,VG,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,7,20uM,NA,0,DIFFUSE,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,7,10uM,NA,0,DIFFUSE,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,7,1uM,0.002915452,344,VG,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,7,20uM,NA,0,DIFFUSE,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,7,10uM,NA,0,DIFFUSE,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,7,1uM,0.965714286,175,VG,
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,14,20uM,1,2,DEAD?,
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,14,10uM,0,1,DIFFUSE DEAD,
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,14,1uM,0.92617866,4836,G,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,14,20uM,0.2,5,DEAD?,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,14,10uM,0,1,DIFFUSE DEAD,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,14,1uM,0.007940447,2016,G,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,14,20uM,NA,0,DEAD?,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,14,10uM,0,1,DIFFUSE DEAD,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,14,1uM,0.003780718,530,G,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,14,20uM,0,5,DEAD?,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,14,10uM,0,8,DIFFUSE DEAD,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,14,1uM,0.000489716,2042,G,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,14,20uM,NA,0,DEAD?,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,14,10uM,0.4,5,DIFFUSE DEAD,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,14,1uM,0.435813573,1224,G,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,14,20uM,NA,0,DEAD?,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,14,10uM,NA,0,DIFFUSE DEAD,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,14,1uM,0.990740741,108,G,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,14,20uM,1,1,DEAD?,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,14,10uM,NA,0,DIFFUSE DEAD,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,14,1uM,0.983339644,2641,G,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,14,20uM,NA,0,DEAD?,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,14,10uM,1,1,DIFFUSE DEAD,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,14,1uM,1,1050,G,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,14,20uM,1,57,DEAD?,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,14,10uM,1,65,DIFFUSE DEAD,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,14,1uM,0.999072725,7557,G,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,14,20uM,NA,0,DEAD?,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,14,10uM,NA,0,DIFFUSE DEAD,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,14,1uM,NA,0,G,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,14,20uM,1,3,DEAD?,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,14,10uM,1,4,DIFFUSE DEAD,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,14,1uM,0.999281781,4178,G,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,14,20uM,NA,0,DEAD?,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,14,10uM,NA,0,DIFFUSE DEAD,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,14,1uM,0,2150,G,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,14,20uM,0.8,10,DEAD?,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,14,10uM,0.866666667,15,DIFFUSE DEAD,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,14,1uM,0.920185461,6041,G,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,14,20uM,1,1,DEAD?,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,14,10uM,1,2,DIFFUSE DEAD,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,14,1uM,1,810,G,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,14,20uM,NA,0,DEAD?,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,14,10uM,1,6,DIFFUSE DEAD,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,14,1uM,0.999706228,3404,G,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,14,20uM,NA,0,DEAD?,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,14,10uM,1,2,DIFFUSE DEAD,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,14,1uM,0.999292786,1414,G,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,14,20uM,0,2,DEAD?,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,14,10uM,NA,0,DIFFUSE DEAD,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,14,1uM,0,91,G,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,14,20uM,1,1,DEAD?,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,14,10uM,1,1,DIFFUSE DEAD,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,14,1uM,0.982857143,175,G,
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,21,20uM,1,9,DEAD?,
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,21,10uM,NA,0,DIFFUSE DEAD,
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,21,1uM,0.964985994,2856,M ,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,21,20uM,0,4,DEAD?,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,21,10uM,0,1,DIFFUSE DEAD,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,21,1uM,0.013898081,1511,M ,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,21,20uM,0,1,DEAD?,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,21,10uM,0,2,DIFFUSE DEAD,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,21,1uM,0.001246883,803,M ,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,21,20uM,0,8,DEAD?,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,21,10uM,0,3,DIFFUSE DEAD,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,21,1uM,0.000995025,1005,M ,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,21,20uM,0.333333333,3,DEAD?,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,21,10uM,1,2,DIFFUSE DEAD,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,21,1uM,0.452054795,585,M ,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,21,20uM,1,2,DEAD?,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,21,10uM,NA,0,DIFFUSE DEAD,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,21,1uM,1,310,M ,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,21,20uM,1,3,DEAD?,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,21,10uM,1,1,DIFFUSE DEAD,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,21,1uM,0.989183342,1851,M ,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,21,20uM,1,2,DEAD?,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,21,10uM,1,1,DIFFUSE DEAD,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,21,1uM,1,644,M ,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,21,20uM,1,77,DEAD?,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,21,10uM,1,22,DIFFUSE DEAD,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,21,1uM,0.999668545,3020,M ,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,21,20uM,NA,0,DEAD?,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,21,10uM,NA,0,DIFFUSE DEAD,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,21,1uM,NA,0,M ,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,21,20uM,1,5,DEAD?,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,21,10uM,1,1,DIFFUSE DEAD,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,21,1uM,1,2029,M ,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,21,20uM,0,2,DEAD?,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,21,10uM,0,1,DIFFUSE DEAD,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,21,1uM,0,787,M ,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,21,20uM,0.9,10,DEAD?,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,21,10uM,1,3,DIFFUSE DEAD,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,21,1uM,0.921266234,3697,M ,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,21,20uM,NA,0,DEAD?,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,21,10uM,NA,0,DIFFUSE DEAD,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,21,1uM,1,834,M ,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,21,20uM,1,2,DEAD?,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,21,10uM,NA,0,DIFFUSE DEAD,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,21,1uM,0.999775583,4457,M ,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,21,20uM,1,5,DEAD?,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,21,10uM,1,3,DIFFUSE DEAD,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,21,1uM,1,2125,M ,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,21,20uM,0,2,DEAD?,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,21,10uM,NA,0,DIFFUSE DEAD,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,21,1uM,0,22,M ,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,21,20uM,NA,0,DEAD?,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,21,10uM,NA,0,DIFFUSE DEAD,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,21,1uM,1,20,M ,
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,28,10uM,NA,0,DIFFUSE DEAD,
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,28,1uM,0.908792412,2741,VG,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,28,10uM,NA,0,DIFFUSE DEAD,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,28,1uM,0.008214677,1826,VG,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,28,10uM,0,2,DIFFUSE DEAD,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,28,1uM,0.000723589,1383,VG,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,28,20uM,0,1,DIFFUSE DEAD,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,28,10uM,0,3,DIFFUSE DEAD,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,28,1uM,0.002903039,10336,VG,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,28,10uM,1,2,DIFFUSE DEAD,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,28,1uM,0.44306739,1291,VG,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,28,10uM,1,2,DIFFUSE DEAD,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,28,1uM,0.998031012,4064,VG,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,28,10uM,1,4,DIFFUSE DEAD,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,28,1uM,0.994604802,3709,VG,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,28,10uM,NA,0,DIFFUSE DEAD,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,28,1uM,0.999165972,1199,VG,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,28,20uM,1,40,DIFFUSE DEAD,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,28,10uM,1,37,DIFFUSE DEAD,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,28,1uM,0.999541761,32777,VG,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,28,10uM,NA,0,DIFFUSE DEAD,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,28,1uM,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,28,20uM,1,1,DIFFUSE DEAD,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,28,10uM,1,1,DIFFUSE DEAD,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,28,1uM,0.999377335,3214,VG,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,28,10uM,0,1,DIFFUSE DEAD,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,28,1uM,0,731,VG,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,28,20uM,1,2,DIFFUSE DEAD,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,28,10uM,0.857142857,7,DIFFUSE DEAD,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,28,1uM,0.89791926,5623,VG,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,28,10uM,1,2,DIFFUSE DEAD,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,28,1uM,1,899,VG,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,28,10uM,1,2,DIFFUSE DEAD,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,28,1uM,0.999286606,5610,VG,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,28,10uM,1,4,DIFFUSE DEAD,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,28,1uM,0.999403697,6709,VG,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,28,10uM,NA,0,DIFFUSE DEAD,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,28,1uM,0.029177719,1895,VG,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,28,20uM,1,1,DIFFUSE DEAD,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,28,10uM,NA,0,DIFFUSE DEAD,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,28,1uM,1,31,VG,
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,35,20uM,0.5,2,DIFFUSE DARK,
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,35,10uM,1,1,DIFFUSE DARK,
+Adamtsl4,MAE,2,no-UMI,Fluoro-SAHA,35,1uM,0.776405188,1621,VG,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,35,20uM,0,1,DIFFUSE DARK,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,35,10uM,0,1,DIFFUSE DARK,
+Adnp2,MAE,2,no-UMI,Fluoro-SAHA,35,1uM,0.001572327,1272,VG,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,35,20uM,NA,0,DIFFUSE DARK,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,35,10uM,NA,0,DIFFUSE DARK,
+Afap1,MAE,2,no-UMI,Fluoro-SAHA,35,1uM,0.068571429,176,VG,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,35,20uM,0,4,DIFFUSE DARK,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,35,10uM,0,1,DIFFUSE DARK,
+Casd1,MAE,2,no-UMI,Fluoro-SAHA,35,1uM,0,887,VG,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,35,20uM,0,1,DIFFUSE DARK,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,35,10uM,0.5,2,DIFFUSE DARK,
+Ccnj,BAE,2,no-UMI,Fluoro-SAHA,35,1uM,0.555408971,758,VG,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,35,20uM,NA,0,DIFFUSE DARK,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,35,10uM,1,1,DIFFUSE DARK,
+Col6a5,MAE,2,no-UMI,Fluoro-SAHA,35,1uM,1,279,VG,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,35,20uM,1,2,DIFFUSE DARK,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,35,10uM,NA,0,DIFFUSE DARK,
+Dnajc12,MAE,2,no-UMI,Fluoro-SAHA,35,1uM,0.998054475,1029,VG,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,35,20uM,1,2,DIFFUSE DARK,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,35,10uM,NA,0,DIFFUSE DARK,
+Fam217b,MAE,2,no-UMI,Fluoro-SAHA,35,1uM,1,465,VG,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,35,20uM,1,91,DIFFUSE DARK,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,35,10uM,1,36,DIFFUSE DARK,
+H2-Ea-ps,MAE,2,no-UMI,Fluoro-SAHA,35,1uM,0.999494596,25747,VG,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,35,20uM,NA,0,DIFFUSE DARK,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,35,10uM,NA,0,DIFFUSE DARK,
+Hdlbp,BAE,2,no-UMI,Fluoro-SAHA,35,1uM,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,35,20uM,NA,0,DIFFUSE DARK,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,35,10uM,1,1,DIFFUSE DARK,
+Mecp2,Xlinked,2,no-UMI,Fluoro-SAHA,35,1uM,0.999648259,2843,VG,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,35,20uM,NA,0,DIFFUSE DARK,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,35,10uM,NA,0,DIFFUSE DARK,
+Ncam2,MAE,2,no-UMI,Fluoro-SAHA,35,1uM,0.023809524,84,VG,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,35,20uM,1,6,DIFFUSE DARK,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,35,10uM,0.666666667,3,DIFFUSE DARK,
+Pea15a,MAE,2,no-UMI,Fluoro-SAHA,35,1uM,0.957315399,7290,VG,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,35,20uM,NA,0,DIFFUSE DARK,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,35,10uM,NA,0,DIFFUSE DARK,
+Phka2,Xlinked,2,no-UMI,Fluoro-SAHA,35,1uM,1,221,VG,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,35,20uM,1,4,DIFFUSE DARK,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,35,10uM,NA,0,DIFFUSE DARK,
+Pola1,Xlinked,2,no-UMI,Fluoro-SAHA,35,1uM,0.99826087,575,VG,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,35,20uM,1,4,DIFFUSE DARK,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,35,10uM,1,5,DIFFUSE DARK,
+Sash1,MAE,2,no-UMI,Fluoro-SAHA,35,1uM,1,1111,VG,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,35,20uM,NA,0,DIFFUSE DARK,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,35,10uM,0,2,DIFFUSE DARK,
+Smtnl2,MAE,2,no-UMI,Fluoro-SAHA,35,1uM,0.000853242,1172,VG,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,35,20uM,NA,0,DIFFUSE DARK,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,35,10uM,NA,0,DIFFUSE DARK,
+Spire1,MAE,2,no-UMI,Fluoro-SAHA,35,1uM,0.951851852,270,VG,
+Adamtsl4,MAE,1,no-UMI,Fluoro-SAHA,7,1uM,0.955426845,27842,,
+Adamtsl4,MAE,1,no-UMI,Fluoro-SAHA,7,10uM,0.910569106,369,,
+Adamtsl4,MAE,1,no-UMI,Fluoro-SAHA,7,20uM,0.886524823,283,,
+Adnp2,MAE,1,no-UMI,Fluoro-SAHA,7,1uM,0.037985755,8004,,
+Adnp2,MAE,1,no-UMI,Fluoro-SAHA,7,10uM,0.04494382,89,,
+Adnp2,MAE,1,no-UMI,Fluoro-SAHA,7,20uM,0,12,,
+Afap1,MAE,1,no-UMI,Fluoro-SAHA,7,1uM,0.111111111,9,,
+Afap1,MAE,1,no-UMI,Fluoro-SAHA,7,10uM,0,1,,
+Afap1,MAE,1,no-UMI,Fluoro-SAHA,7,20uM,NA,0,,
+Cacnb2,MAE,1,no-UMI,Fluoro-SAHA,7,1uM,0.450980392,51,,
+Cacnb2,MAE,1,no-UMI,Fluoro-SAHA,7,10uM,0,1,,
+Cacnb2,MAE,1,no-UMI,Fluoro-SAHA,7,20uM,NA,0,,
+Casd1,MAE,1,no-UMI,Fluoro-SAHA,7,1uM,0,3,,
+Casd1,MAE,1,no-UMI,Fluoro-SAHA,7,10uM,NA,0,,
+Casd1,MAE,1,no-UMI,Fluoro-SAHA,7,20uM,NA,0,,
+Ccnj,BAE,1,no-UMI,Fluoro-SAHA,7,1uM,0.427175844,1132,,
+Ccnj,BAE,1,no-UMI,Fluoro-SAHA,7,10uM,0.777777778,9,,
+Ccnj,BAE,1,no-UMI,Fluoro-SAHA,7,20uM,NA,0,,
+Col6a5,MAE,1,no-UMI,Fluoro-SAHA,7,1uM,1,50,,
+Col6a5,MAE,1,no-UMI,Fluoro-SAHA,7,10uM,NA,0,,
+Col6a5,MAE,1,no-UMI,Fluoro-SAHA,7,20uM,1,1,,
+Dnajc12,MAE,1,no-UMI,Fluoro-SAHA,7,1uM,1,431,,
+Dnajc12,MAE,1,no-UMI,Fluoro-SAHA,7,10uM,1,2,,
+Dnajc12,MAE,1,no-UMI,Fluoro-SAHA,7,20uM,NA,0,,
+Fam217b,MAE,1,no-UMI,Fluoro-SAHA,7,1uM,0.000680094,19132,,
+Fam217b,MAE,1,no-UMI,Fluoro-SAHA,7,10uM,0,242,,
+Fam217b,MAE,1,no-UMI,Fluoro-SAHA,7,20uM,0,64,,
+H2-Ea-ps,MAE,1,no-UMI,Fluoro-SAHA,7,1uM,0.999630587,10842,,
+H2-Ea-ps,MAE,1,no-UMI,Fluoro-SAHA,7,10uM,1,106,,
+H2-Ea-ps,MAE,1,no-UMI,Fluoro-SAHA,7,20uM,1,14,,
+Hdlbp,BAE,1,no-UMI,Fluoro-SAHA,7,1uM,0.462127008,9167,,
+Hdlbp,BAE,1,no-UMI,Fluoro-SAHA,7,10uM,0.611111111,90,,
+Hdlbp,BAE,1,no-UMI,Fluoro-SAHA,7,20uM,0.529411765,68,,
+Mecp2,Xlinked,1,no-UMI,Fluoro-SAHA,7,1uM,0.999346548,4599,,
+Mecp2,Xlinked,1,no-UMI,Fluoro-SAHA,7,10uM,1,18,,
+Mecp2,Xlinked,1,no-UMI,Fluoro-SAHA,7,20uM,1,20,,
+Ncam2,MAE,1,no-UMI,Fluoro-SAHA,7,1uM,0.009259259,973,,
+Ncam2,MAE,1,no-UMI,Fluoro-SAHA,7,10uM,0,12,,
+Ncam2,MAE,1,no-UMI,Fluoro-SAHA,7,20uM,NA,0,,
+Pea15a,MAE,1,no-UMI,Fluoro-SAHA,7,1uM,0.883333333,1020,,
+Pea15a,MAE,1,no-UMI,Fluoro-SAHA,7,10uM,1,8,,
+Pea15a,MAE,1,no-UMI,Fluoro-SAHA,7,20uM,1,7,,
+Phka2,Xlinked,1,no-UMI,Fluoro-SAHA,7,1uM,0.988235294,85,,
+Phka2,Xlinked,1,no-UMI,Fluoro-SAHA,7,10uM,NA,0,,
+Phka2,Xlinked,1,no-UMI,Fluoro-SAHA,7,20uM,NA,0,,
+Pola1,Xlinked,1,no-UMI,Fluoro-SAHA,7,1uM,1,1356,,
+Pola1,Xlinked,1,no-UMI,Fluoro-SAHA,7,10uM,1,8,,
+Pola1,Xlinked,1,no-UMI,Fluoro-SAHA,7,20uM,NA,0,,
+Sash1,MAE,1,no-UMI,Fluoro-SAHA,7,1uM,0.999640727,13936,,
+Sash1,MAE,1,no-UMI,Fluoro-SAHA,7,10uM,1,300,,
+Sash1,MAE,1,no-UMI,Fluoro-SAHA,7,20uM,1,22,,
+Smtnl2,MAE,1,no-UMI,Fluoro-SAHA,7,1uM,0.001111111,4508,,
+Smtnl2,MAE,1,no-UMI,Fluoro-SAHA,7,10uM,0,17,,
+Smtnl2,MAE,1,no-UMI,Fluoro-SAHA,7,20uM,0,26,,
+Spire1,MAE,1,no-UMI,Fluoro-SAHA,7,1uM,0.845890411,292,,
+Spire1,MAE,1,no-UMI,Fluoro-SAHA,7,10uM,0.5,2,,
+Spire1,MAE,1,no-UMI,Fluoro-SAHA,7,20uM,1,1,,
+Tmem104,BAE,1,no-UMI,Fluoro-SAHA,7,1uM,0.297029703,101,,
+Tmem104,BAE,1,no-UMI,Fluoro-SAHA,7,10uM,NA,0,,
+Tmem104,BAE,1,no-UMI,Fluoro-SAHA,7,20uM,NA,0,,
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,7,20uM,0,2,DIFFUSE,0
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,7,10uM,0,1,DIFFUSE,0
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,7,1uM,0,87,VG,685
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,7,20uM,NA,0,DIFFUSE,2
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,7,10uM,NA,0,DIFFUSE,19
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,7,1uM,1,145,VG,8156
+Adnp2,MAE,2,UMI,Fluoro-SAHA,7,20uM,NA,0,DIFFUSE,1
+Adnp2,MAE,2,UMI,Fluoro-SAHA,7,10uM,0,1,DIFFUSE,1
+Adnp2,MAE,2,UMI,Fluoro-SAHA,7,1uM,0,112,VG,3353
+Dlc1,MAE,2,UMI,Fluoro-SAHA,7,20uM,0.5,2,DIFFUSE,0
+Dlc1,MAE,2,UMI,Fluoro-SAHA,7,10uM,1,1,DIFFUSE,0
+Dlc1,MAE,2,UMI,Fluoro-SAHA,7,1uM,0.824561404,114,VG,1374
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,7,20uM,NA,0,DIFFUSE,1
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,7,10uM,NA,0,DIFFUSE,14
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,7,1uM,0.983086681,473,VG,10439
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,7,20uM,1,1,DIFFUSE,0
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,7,10uM,NA,0,DIFFUSE,0
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,7,1uM,1,239,VG,2116
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,7,20uM,0.75,4,DIFFUSE,8
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,7,10uM,0.333333333,3,DIFFUSE,0
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,7,1uM,0.533460803,527,VG,4090
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,7,20uM,NA,0,DIFFUSE,0
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,7,10uM,0,1,DIFFUSE,0
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,7,1uM,0.076923077,26,VG,514
+Tpst1,MAE,2,UMI,Fluoro-SAHA,7,20uM,NA,0,DIFFUSE,NA
+Tpst1,MAE,2,UMI,Fluoro-SAHA,7,10uM,NA,0,DIFFUSE,NA
+Tpst1,MAE,2,UMI,Fluoro-SAHA,7,1uM,0.058823529,34,VG,252
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,14,20uM,0,1,DEAD?,0
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,14,10uM,0,2,DIFFUSE DEAD,0
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,14,1uM,0,114,G,493
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,14,20uM,NA,0,DEAD?,1
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,14,10uM,NA,0,DIFFUSE DEAD,13
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,14,1uM,1,151,G,4945
+Adnp2,MAE,2,UMI,Fluoro-SAHA,14,20uM,NA,0,DEAD?,4
+Adnp2,MAE,2,UMI,Fluoro-SAHA,14,10uM,0,2,DIFFUSE DEAD,0
+Adnp2,MAE,2,UMI,Fluoro-SAHA,14,1uM,0,125,G,2334
+Dlc1,MAE,2,UMI,Fluoro-SAHA,14,20uM,1,1,DEAD?,0
+Dlc1,MAE,2,UMI,Fluoro-SAHA,14,10uM,1,1,DIFFUSE DEAD,0
+Dlc1,MAE,2,UMI,Fluoro-SAHA,14,1uM,0.9125,80,G,388
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,14,20uM,1,1,DEAD?,1
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,14,10uM,0.8,5,DIFFUSE DEAD,6
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,14,1uM,0.986754967,302,G,4558
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,14,20uM,NA,0,DEAD?,NA
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,14,10uM,1,1,DIFFUSE DEAD,0
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,14,1uM,0.99245283,265,G,1451
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,14,20uM,0.333333333,3,DEAD?,0
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,14,10uM,0.333333333,3,DIFFUSE DEAD,0
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,14,1uM,0.518968134,660,G,2305
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,14,20uM,NA,0,DEAD?,1
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,14,10uM,NA,0,DIFFUSE DEAD,1
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,14,1uM,0,7,G,113
+Tpst1,MAE,2,UMI,Fluoro-SAHA,14,20uM,0,1,DEAD?,0
+Tpst1,MAE,2,UMI,Fluoro-SAHA,14,10uM,NA,0,DIFFUSE DEAD,NA
+Tpst1,MAE,2,UMI,Fluoro-SAHA,14,1uM,0.114285714,35,G,210
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,21,20uM,NA,0,DEAD?,NA
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,21,10uM,NA,0,DIFFUSE DEAD,NA
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,21,1uM,0,81,M ,595
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,21,20uM,1,2,DEAD?,8
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,21,10uM,NA,0,DIFFUSE DEAD,NA
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,21,1uM,0.970873786,103,M ,3118
+Adnp2,MAE,2,UMI,Fluoro-SAHA,21,20uM,NA,0,DEAD?,2
+Adnp2,MAE,2,UMI,Fluoro-SAHA,21,10uM,NA,0,DIFFUSE DEAD,0
+Adnp2,MAE,2,UMI,Fluoro-SAHA,21,1uM,0,83,M ,1840
+Dlc1,MAE,2,UMI,Fluoro-SAHA,21,20uM,0.666666667,3,DEAD?,0
+Dlc1,MAE,2,UMI,Fluoro-SAHA,21,10uM,NA,0,DIFFUSE DEAD,NA
+Dlc1,MAE,2,UMI,Fluoro-SAHA,21,1uM,0.905660377,106,M ,796
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,21,20uM,1,1,DEAD?,3
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,21,10uM,NA,0,DIFFUSE DEAD,0
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,21,1uM,0.984126984,252,M ,4420
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,21,20uM,1,2,DEAD?,0
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,21,10uM,1,1,DIFFUSE DEAD,0
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,21,1uM,1,137,M ,1214
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,21,20uM,0,2,DEAD?,0
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,21,10uM,1,1,DIFFUSE DEAD,0
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,21,1uM,0.49551167,558,M ,3306
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,21,20uM,NA,0,DEAD?,1
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,21,10uM,NA,0,DIFFUSE DEAD,NA
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,21,1uM,0,2,M ,40
+Tpst1,MAE,2,UMI,Fluoro-SAHA,21,20uM,0,1,DEAD?,0
+Tpst1,MAE,2,UMI,Fluoro-SAHA,21,10uM,0,1,DIFFUSE DEAD,0
+Tpst1,MAE,2,UMI,Fluoro-SAHA,21,1uM,0,7,M ,37
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,NA
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,28,10uM,0,1,DIFFUSE DEAD,0
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,28,1uM,0.017094017,118,VG,1053
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,NA
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,28,10uM,1,1,DIFFUSE DEAD,5
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,28,1uM,1,62,VG,3308
+Adnp2,MAE,2,UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,NA
+Adnp2,MAE,2,UMI,Fluoro-SAHA,28,10uM,0,1,DIFFUSE DEAD,0
+Adnp2,MAE,2,UMI,Fluoro-SAHA,28,1uM,0,94,VG,2340
+Dlc1,MAE,2,UMI,Fluoro-SAHA,28,20uM,1,1,DIFFUSE DEAD,0
+Dlc1,MAE,2,UMI,Fluoro-SAHA,28,10uM,1,1,DIFFUSE DEAD,1
+Dlc1,MAE,2,UMI,Fluoro-SAHA,28,1uM,0.88627451,255,VG,2707
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,NA
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,28,10uM,1,3,DIFFUSE DEAD,10
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,28,1uM,0.997752809,445,VG,8386
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,28,20uM,1,1,DIFFUSE DEAD,0
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,28,10uM,1,3,DIFFUSE DEAD,0
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,28,1uM,0.996666667,302,VG,2898
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,28,20uM,0,1,DIFFUSE DEAD,0
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,28,10uM,0.5,2,DIFFUSE DEAD,0
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,28,1uM,0.538181818,827,VG,2114
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,NA
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,28,10uM,NA,0,DIFFUSE DEAD,NA
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,28,1uM,0.022222222,45,VG,2259
+Tpst1,MAE,2,UMI,Fluoro-SAHA,28,20uM,NA,0,DIFFUSE DEAD,NA
+Tpst1,MAE,2,UMI,Fluoro-SAHA,28,10uM,NA,0,DIFFUSE DEAD,0
+Tpst1,MAE,2,UMI,Fluoro-SAHA,28,1uM,0.023809524,42,VG,445
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,35,20uM,0,1,DIFFUSE DARK,0
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,35,10uM,NA,0,DIFFUSE DARK,NA
+3830406C13Rik,MAE,2,UMI,Fluoro-SAHA,35,1uM,0,64,VG,217
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,35,20uM,1,1,DIFFUSE DARK,1
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,35,10uM,NA,0,DIFFUSE DARK,5
+Adamtsl4,MAE,2,UMI,Fluoro-SAHA,35,1uM,0.983870968,62,VG,1779
+Adnp2,MAE,2,UMI,Fluoro-SAHA,35,20uM,NA,0,DIFFUSE DARK,0
+Adnp2,MAE,2,UMI,Fluoro-SAHA,35,10uM,NA,0,DIFFUSE DARK,5
+Adnp2,MAE,2,UMI,Fluoro-SAHA,35,1uM,0,79,VG,1400
+Dlc1,MAE,2,UMI,Fluoro-SAHA,35,20uM,1,3,DIFFUSE DARK,0
+Dlc1,MAE,2,UMI,Fluoro-SAHA,35,10uM,1,2,DIFFUSE DARK,0
+Dlc1,MAE,2,UMI,Fluoro-SAHA,35,1uM,0.85,60,VG,164
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,35,20uM,1,1,DIFFUSE DARK,3
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,35,10uM,NA,0,DIFFUSE DARK,5
+Dnajc12,MAE,2,UMI,Fluoro-SAHA,35,1uM,0.989010989,182,VG,1789
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,35,20uM,NA,0,DIFFUSE DARK,NA
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,35,10uM,1,1,DIFFUSE DARK,0
+Gprasp1,X-Linked,2,UMI,Fluoro-SAHA,35,1uM,1,73,VG,162
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,35,20uM,NA,0,DIFFUSE DARK,NA
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,35,10uM,NA,0,DIFFUSE DARK,NA
+Slc25a37,BAE,2,UMI,Fluoro-SAHA,35,1uM,0.360995851,242,VG,212
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,35,20uM,NA,0,DIFFUSE DARK,NA
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,35,10uM,0,1,DIFFUSE DARK,1
+Smtnl2,MAE,2,UMI,Fluoro-SAHA,35,1uM,0,64,VG,1405
+Tpst1,MAE,2,UMI,Fluoro-SAHA,35,20uM,NA,0,DIFFUSE DARK,NA
+Tpst1,MAE,2,UMI,Fluoro-SAHA,35,10uM,NA,0,DIFFUSE DARK,NA
+Tpst1,MAE,2,UMI,Fluoro-SAHA,35,1uM,0.005555556,180,VG,656
+Adamtsl4,MAE,2,no-UMI,BML-278,7,20uM,0.784560144,557,VG,
+Adamtsl4,MAE,2,no-UMI,BML-278,7,10uM,0.793315743,1137,VG,
+Adamtsl4,MAE,2,no-UMI,BML-278,7,1uM,0.5,6,VG,
+Adnp2,MAE,2,no-UMI,BML-278,7,20uM,0.024482109,531,VG,
+Adnp2,MAE,2,no-UMI,BML-278,7,10uM,0.015525114,1097,VG,
+Adnp2,MAE,2,no-UMI,BML-278,7,1uM,0,4,VG,
+Afap1,MAE,2,no-UMI,BML-278,7,20uM,0.009259259,324,VG,
+Afap1,MAE,2,no-UMI,BML-278,7,10uM,0.023217247,604,VG,
+Afap1,MAE,2,no-UMI,BML-278,7,1uM,0,8,VG,
+Casd1,MAE,2,no-UMI,BML-278,7,20uM,0.002059732,971,VG,
+Casd1,MAE,2,no-UMI,BML-278,7,10uM,0.004310345,1856,VG,
+Casd1,MAE,2,no-UMI,BML-278,7,1uM,0,10,VG,
+Ccnj,BAE,2,no-UMI,BML-278,7,20uM,0.497442455,782,VG,
+Ccnj,BAE,2,no-UMI,BML-278,7,10uM,0.498285714,1752,VG,
+Ccnj,BAE,2,no-UMI,BML-278,7,1uM,0.578947368,19,VG,
+Col6a5,MAE,2,no-UMI,BML-278,7,20uM,0.956989247,279,VG,
+Col6a5,MAE,2,no-UMI,BML-278,7,10uM,0.96925859,553,VG,
+Col6a5,MAE,2,no-UMI,BML-278,7,1uM,1,4,VG,
+Dnajc12,MAE,2,no-UMI,BML-278,7,20uM,0.869888476,269,VG,
+Dnajc12,MAE,2,no-UMI,BML-278,7,10uM,0.958277254,743,VG,
+Dnajc12,MAE,2,no-UMI,BML-278,7,1uM,0.875,8,VG,
+Fam217b,MAE,2,no-UMI,BML-278,7,20uM,1,356,VG,
+Fam217b,MAE,2,no-UMI,BML-278,7,10uM,1,772,VG,
+Fam217b,MAE,2,no-UMI,BML-278,7,1uM,1,6,VG,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,7,20uM,0.999131944,1155,VG,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,7,10uM,0.999183007,2451,VG,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,7,1uM,1,88,VG,
+Hdlbp,BAE,2,no-UMI,BML-278,7,20uM,NA,0,VG,
+Hdlbp,BAE,2,no-UMI,BML-278,7,10uM,NA,0,VG,
+Hdlbp,BAE,2,no-UMI,BML-278,7,1uM,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,BML-278,7,20uM,0.998266898,1154,VG,
+Mecp2,Xlinked,2,no-UMI,BML-278,7,10uM,1,2313,VG,
+Mecp2,Xlinked,2,no-UMI,BML-278,7,1uM,1,15,VG,
+Ncam2,MAE,2,no-UMI,BML-278,7,20uM,0,221,VG,
+Ncam2,MAE,2,no-UMI,BML-278,7,10uM,0,492,VG,
+Ncam2,MAE,2,no-UMI,BML-278,7,1uM,0,1,VG,
+Pea15a,MAE,2,no-UMI,BML-278,7,20uM,0.812664908,1137,VG,
+Pea15a,MAE,2,no-UMI,BML-278,7,10uM,0.783903421,2485,VG,
+Pea15a,MAE,2,no-UMI,BML-278,7,1uM,0.941176471,17,VG,
+Phka2,Xlinked,2,no-UMI,BML-278,7,20uM,0.996969697,331,VG,
+Phka2,Xlinked,2,no-UMI,BML-278,7,10uM,1,659,VG,
+Phka2,Xlinked,2,no-UMI,BML-278,7,1uM,1,6,VG,
+Pola1,Xlinked,2,no-UMI,BML-278,7,20uM,1,637,VG,
+Pola1,Xlinked,2,no-UMI,BML-278,7,10uM,1,1171,VG,
+Pola1,Xlinked,2,no-UMI,BML-278,7,1uM,1,3,VG,
+Sash1,MAE,2,no-UMI,BML-278,7,20uM,1,590,VG,
+Sash1,MAE,2,no-UMI,BML-278,7,10uM,1,753,VG,
+Sash1,MAE,2,no-UMI,BML-278,7,1uM,1,11,VG,
+Smtnl2,MAE,2,no-UMI,BML-278,7,20uM,0.04,75,VG,
+Smtnl2,MAE,2,no-UMI,BML-278,7,10uM,0.032894737,152,VG,
+Smtnl2,MAE,2,no-UMI,BML-278,7,1uM,0,1,VG,
+Spire1,MAE,2,no-UMI,BML-278,7,20uM,1,55,VG,
+Spire1,MAE,2,no-UMI,BML-278,7,10uM,0.991525424,118,VG,
+Spire1,MAE,2,no-UMI,BML-278,7,1uM,1,1,VG,
+Adamtsl4,MAE,2,no-UMI,BML-278,14,20uM,0.800143781,2782,VG ,
+Adamtsl4,MAE,2,no-UMI,BML-278,14,10uM,0.734604106,682,VG ,
+Adamtsl4,MAE,2,no-UMI,BML-278,14,1uM,0.714879154,2648,VG ,
+Adnp2,MAE,2,no-UMI,BML-278,14,20uM,0.011161637,2420,VG ,
+Adnp2,MAE,2,no-UMI,BML-278,14,10uM,0.003355705,596,VG ,
+Adnp2,MAE,2,no-UMI,BML-278,14,1uM,0.015101463,2119,VG ,
+Afap1,MAE,2,no-UMI,BML-278,14,20uM,0.012012012,1002,VG ,
+Afap1,MAE,2,no-UMI,BML-278,14,10uM,0,164,VG ,
+Afap1,MAE,2,no-UMI,BML-278,14,1uM,0.053066038,849,VG ,
+Casd1,MAE,2,no-UMI,BML-278,14,20uM,0.001183992,4223,VG ,
+Casd1,MAE,2,no-UMI,BML-278,14,10uM,0.007042254,852,VG ,
+Casd1,MAE,2,no-UMI,BML-278,14,1uM,0.002854085,2805,VG ,
+Ccnj,BAE,2,no-UMI,BML-278,14,20uM,0.504799147,2815,VG ,
+Ccnj,BAE,2,no-UMI,BML-278,14,10uM,0.500715308,699,VG ,
+Ccnj,BAE,2,no-UMI,BML-278,14,1uM,0.511566073,3767,VG ,
+Col6a5,MAE,2,no-UMI,BML-278,14,20uM,0.958652374,653,VG ,
+Col6a5,MAE,2,no-UMI,BML-278,14,10uM,0.981818182,55,VG ,
+Col6a5,MAE,2,no-UMI,BML-278,14,1uM,0.940860215,372,VG ,
+Dnajc12,MAE,2,no-UMI,BML-278,14,20uM,0.880085653,1401,VG ,
+Dnajc12,MAE,2,no-UMI,BML-278,14,10uM,0.939393939,363,VG ,
+Dnajc12,MAE,2,no-UMI,BML-278,14,1uM,0.917771883,1508,VG ,
+Fam217b,MAE,2,no-UMI,BML-278,14,20uM,1,1470,VG ,
+Fam217b,MAE,2,no-UMI,BML-278,14,10uM,1,344,VG ,
+Fam217b,MAE,2,no-UMI,BML-278,14,1uM,1,1214,VG ,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,14,20uM,0.999469646,28327,VG ,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,14,10uM,0.998844547,11273,VG ,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,14,1uM,0.99873391,28464,VG ,
+Hdlbp,BAE,2,no-UMI,BML-278,14,20uM,NA,0,VG ,
+Hdlbp,BAE,2,no-UMI,BML-278,14,10uM,NA,0,VG ,
+Hdlbp,BAE,2,no-UMI,BML-278,14,1uM,NA,0,VG ,
+Mecp2,Xlinked,2,no-UMI,BML-278,14,20uM,1,4715,VG ,
+Mecp2,Xlinked,2,no-UMI,BML-278,14,10uM,0.99669749,1514,VG ,
+Mecp2,Xlinked,2,no-UMI,BML-278,14,1uM,0.998901099,5461,VG ,
+Ncam2,MAE,2,no-UMI,BML-278,14,20uM,0.007276507,963,VG ,
+Ncam2,MAE,2,no-UMI,BML-278,14,10uM,0.046153846,130,VG ,
+Ncam2,MAE,2,no-UMI,BML-278,14,1uM,0.043046358,906,VG ,
+Pea15a,MAE,2,no-UMI,BML-278,14,20uM,0.855414961,5378,VG ,
+Pea15a,MAE,2,no-UMI,BML-278,14,10uM,0.871231156,1592,VG ,
+Pea15a,MAE,2,no-UMI,BML-278,14,1uM,0.838631302,4939,VG ,
+Phka2,Xlinked,2,no-UMI,BML-278,14,20uM,1,1839,VG ,
+Phka2,Xlinked,2,no-UMI,BML-278,14,10uM,1,284,VG ,
+Phka2,Xlinked,2,no-UMI,BML-278,14,1uM,1,1244,VG ,
+Pola1,Xlinked,2,no-UMI,BML-278,14,20uM,0.999118943,3407,VG ,
+Pola1,Xlinked,2,no-UMI,BML-278,14,10uM,1,475,VG ,
+Pola1,Xlinked,2,no-UMI,BML-278,14,1uM,1,1547,VG ,
+Sash1,MAE,2,no-UMI,BML-278,14,20uM,0.999490056,1961,VG ,
+Sash1,MAE,2,no-UMI,BML-278,14,10uM,1,466,VG ,
+Sash1,MAE,2,no-UMI,BML-278,14,1uM,1,1322,VG ,
+Smtnl2,MAE,2,no-UMI,BML-278,14,20uM,0.05511811,127,VG ,
+Smtnl2,MAE,2,no-UMI,BML-278,14,10uM,0,39,VG ,
+Smtnl2,MAE,2,no-UMI,BML-278,14,1uM,0.103773585,106,VG ,
+Spire1,MAE,2,no-UMI,BML-278,14,20uM,0.993710692,159,VG ,
+Spire1,MAE,2,no-UMI,BML-278,14,10uM,1,51,VG ,
+Spire1,MAE,2,no-UMI,BML-278,14,1uM,0.953846154,197,VG ,
+Adamtsl4,MAE,2,no-UMI,BML-278,21,20uM,0.695348837,430,VG,
+Adamtsl4,MAE,2,no-UMI,BML-278,21,10uM,0.814418273,1402,VG,
+Adamtsl4,MAE,2,no-UMI,BML-278,21,1uM,0.800835655,3590,VG,
+Adnp2,MAE,2,no-UMI,BML-278,21,20uM,0.015243902,328,VG,
+Adnp2,MAE,2,no-UMI,BML-278,21,10uM,0.007376185,949,VG,
+Adnp2,MAE,2,no-UMI,BML-278,21,1uM,0.002453386,2039,VG,
+Afap1,MAE,2,no-UMI,BML-278,21,20uM,0.024875622,201,VG,
+Afap1,MAE,2,no-UMI,BML-278,21,10uM,0.028606965,806,VG,
+Afap1,MAE,2,no-UMI,BML-278,21,1uM,0.006791171,1179,VG,
+Casd1,MAE,2,no-UMI,BML-278,21,20uM,0.015873016,567,VG,
+Casd1,MAE,2,no-UMI,BML-278,21,10uM,0.000896057,2232,VG,
+Casd1,MAE,2,no-UMI,BML-278,21,1uM,0.00122399,3268,VG,
+Ccnj,BAE,2,no-UMI,BML-278,21,20uM,0.537142857,352,VG,
+Ccnj,BAE,2,no-UMI,BML-278,21,10uM,0.408250356,703,VG,
+Ccnj,BAE,2,no-UMI,BML-278,21,1uM,0.489583333,2113,VG,
+Col6a5,MAE,2,no-UMI,BML-278,21,20uM,0.977777778,45,VG,
+Col6a5,MAE,2,no-UMI,BML-278,21,10uM,0.9,140,VG,
+Col6a5,MAE,2,no-UMI,BML-278,21,1uM,1,187,VG,
+Dnajc12,MAE,2,no-UMI,BML-278,21,20uM,0.864341085,258,VG,
+Dnajc12,MAE,2,no-UMI,BML-278,21,10uM,0.907209136,1402,VG,
+Dnajc12,MAE,2,no-UMI,BML-278,21,1uM,0.928591995,3475,VG,
+Fam217b,MAE,2,no-UMI,BML-278,21,20uM,1,176,VG,
+Fam217b,MAE,2,no-UMI,BML-278,21,10uM,1,380,VG,
+Fam217b,MAE,2,no-UMI,BML-278,21,1uM,1,775,VG,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,21,20uM,0.999519057,8325,VG,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,21,10uM,0.999291487,45220,VG,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,21,1uM,0.999238039,88028,VG,
+Hdlbp,BAE,2,no-UMI,BML-278,21,20uM,NA,0,VG,
+Hdlbp,BAE,2,no-UMI,BML-278,21,10uM,NA,0,VG,
+Hdlbp,BAE,2,no-UMI,BML-278,21,1uM,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,BML-278,21,20uM,1,762,VG,
+Mecp2,Xlinked,2,no-UMI,BML-278,21,10uM,1,1901,VG,
+Mecp2,Xlinked,2,no-UMI,BML-278,21,1uM,0.999579213,4753,VG,
+Ncam2,MAE,2,no-UMI,BML-278,21,20uM,0,35,VG,
+Ncam2,MAE,2,no-UMI,BML-278,21,10uM,0,353,VG,
+Ncam2,MAE,2,no-UMI,BML-278,21,1uM,0,457,VG,
+Pea15a,MAE,2,no-UMI,BML-278,21,20uM,0.896273917,993,VG,
+Pea15a,MAE,2,no-UMI,BML-278,21,10uM,0.937021573,2874,VG,
+Pea15a,MAE,2,no-UMI,BML-278,21,1uM,0.933744856,7294,VG,
+Phka2,Xlinked,2,no-UMI,BML-278,21,20uM,1,252,VG,
+Phka2,Xlinked,2,no-UMI,BML-278,21,10uM,1,481,VG,
+Phka2,Xlinked,2,no-UMI,BML-278,21,1uM,0.99879081,827,VG,
+Pola1,Xlinked,2,no-UMI,BML-278,21,20uM,1,599,VG,
+Pola1,Xlinked,2,no-UMI,BML-278,21,10uM,0.999513855,2059,VG,
+Pola1,Xlinked,2,no-UMI,BML-278,21,1uM,0.999657064,2917,VG,
+Sash1,MAE,2,no-UMI,BML-278,21,20uM,1,460,VG,
+Sash1,MAE,2,no-UMI,BML-278,21,10uM,1,1850,VG,
+Sash1,MAE,2,no-UMI,BML-278,21,1uM,0.999013158,3041,VG,
+Smtnl2,MAE,2,no-UMI,BML-278,21,20uM,0,29,VG,
+Smtnl2,MAE,2,no-UMI,BML-278,21,10uM,0.034285714,175,VG,
+Smtnl2,MAE,2,no-UMI,BML-278,21,1uM,0.15942029,276,VG,
+Spire1,MAE,2,no-UMI,BML-278,21,20uM,0.930232558,43,VG,
+Spire1,MAE,2,no-UMI,BML-278,21,10uM,0.921428571,140,VG,
+Spire1,MAE,2,no-UMI,BML-278,21,1uM,0.948424069,349,VG,
+Adamtsl4,MAE,2,no-UMI,BML-278,28,20uM,0.914590747,281,VG,
+Adamtsl4,MAE,2,no-UMI,BML-278,28,10uM,0.950886767,733,VG,
+Adamtsl4,MAE,2,no-UMI,BML-278,28,1uM,1,1,VG,
+Adnp2,MAE,2,no-UMI,BML-278,28,20uM,0,232,VG,
+Adnp2,MAE,2,no-UMI,BML-278,28,10uM,0,556,VG,
+Adnp2,MAE,2,no-UMI,BML-278,28,1uM,0,3,VG,
+Afap1,MAE,2,no-UMI,BML-278,28,20uM,0.030927835,97,VG,
+Afap1,MAE,2,no-UMI,BML-278,28,10uM,0.031518625,349,VG,
+Afap1,MAE,2,no-UMI,BML-278,28,1uM,0,2,VG,
+Casd1,MAE,2,no-UMI,BML-278,28,20uM,0.001360544,735,VG,
+Casd1,MAE,2,no-UMI,BML-278,28,10uM,0.008707301,1493,VG,
+Casd1,MAE,2,no-UMI,BML-278,28,1uM,0,11,VG,
+Ccnj,BAE,2,no-UMI,BML-278,28,20uM,0.526041667,192,VG,
+Ccnj,BAE,2,no-UMI,BML-278,28,10uM,0.661064426,357,VG,
+Ccnj,BAE,2,no-UMI,BML-278,28,1uM,0.333333333,6,VG,
+Col6a5,MAE,2,no-UMI,BML-278,28,20uM,0.945454545,165,VG,
+Col6a5,MAE,2,no-UMI,BML-278,28,10uM,0.986590038,522,VG,
+Col6a5,MAE,2,no-UMI,BML-278,28,1uM,1,4,VG,
+Dnajc12,MAE,2,no-UMI,BML-278,28,20uM,0.934837093,399,VG,
+Dnajc12,MAE,2,no-UMI,BML-278,28,10uM,0.964169381,922,VG,
+Dnajc12,MAE,2,no-UMI,BML-278,28,1uM,1,3,VG,
+Fam217b,MAE,2,no-UMI,BML-278,28,20uM,1,143,VG,
+Fam217b,MAE,2,no-UMI,BML-278,28,10uM,1,279,VG,
+Fam217b,MAE,2,no-UMI,BML-278,28,1uM,1,1,VG,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,28,20uM,0.999097647,15526,VG,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,28,10uM,0.999108628,33692,VG,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,28,1uM,1,89,VG,
+Hdlbp,BAE,2,no-UMI,BML-278,28,20uM,NA,0,VG,
+Hdlbp,BAE,2,no-UMI,BML-278,28,10uM,NA,0,VG,
+Hdlbp,BAE,2,no-UMI,BML-278,28,1uM,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,BML-278,28,20uM,1,571,VG,
+Mecp2,Xlinked,2,no-UMI,BML-278,28,10uM,0.999012833,1013,VG,
+Mecp2,Xlinked,2,no-UMI,BML-278,28,1uM,1,3,VG,
+Ncam2,MAE,2,no-UMI,BML-278,28,20uM,0,34,VG,
+Ncam2,MAE,2,no-UMI,BML-278,28,10uM,0.023255814,86,VG,
+Ncam2,MAE,2,no-UMI,BML-278,28,1uM,NA,0,VG,
+Pea15a,MAE,2,no-UMI,BML-278,28,20uM,0.962869198,1185,VG,
+Pea15a,MAE,2,no-UMI,BML-278,28,10uM,0.962387572,2447,VG,
+Pea15a,MAE,2,no-UMI,BML-278,28,1uM,1,6,VG,
+Phka2,Xlinked,2,no-UMI,BML-278,28,20uM,0.989130435,92,VG,
+Phka2,Xlinked,2,no-UMI,BML-278,28,10uM,0.996212121,264,VG,
+Phka2,Xlinked,2,no-UMI,BML-278,28,1uM,1,2,VG,
+Pola1,Xlinked,2,no-UMI,BML-278,28,20uM,1,371,VG,
+Pola1,Xlinked,2,no-UMI,BML-278,28,10uM,1,757,VG,
+Pola1,Xlinked,2,no-UMI,BML-278,28,1uM,1,2,VG,
+Sash1,MAE,2,no-UMI,BML-278,28,20uM,1,933,VG,
+Sash1,MAE,2,no-UMI,BML-278,28,10uM,0.997469636,1976,VG,
+Sash1,MAE,2,no-UMI,BML-278,28,1uM,1,10,VG,
+Smtnl2,MAE,2,no-UMI,BML-278,28,20uM,0,33,VG,
+Smtnl2,MAE,2,no-UMI,BML-278,28,10uM,0.005102041,196,VG,
+Smtnl2,MAE,2,no-UMI,BML-278,28,1uM,0,1,VG,
+Spire1,MAE,2,no-UMI,BML-278,28,20uM,1,30,VG,
+Spire1,MAE,2,no-UMI,BML-278,28,10uM,0.9609375,128,VG,
+Spire1,MAE,2,no-UMI,BML-278,28,1uM,1,1,VG,
+Adamtsl4,MAE,2,no-UMI,BML-278,35,20uM,0.870652174,920,VG,
+Adamtsl4,MAE,2,no-UMI,BML-278,35,10uM,0.850987433,557,VG,
+Adamtsl4,MAE,2,no-UMI,BML-278,35,1uM,0.850980392,1020,VG,
+Adnp2,MAE,2,no-UMI,BML-278,35,20uM,0,585,VG,
+Adnp2,MAE,2,no-UMI,BML-278,35,10uM,0.007389163,406,VG,
+Adnp2,MAE,2,no-UMI,BML-278,35,1uM,0,887,VG,
+Afap1,MAE,2,no-UMI,BML-278,35,20uM,0.034416826,524,VG,
+Afap1,MAE,2,no-UMI,BML-278,35,10uM,0.028089888,179,VG,
+Afap1,MAE,2,no-UMI,BML-278,35,1uM,0.073705179,504,VG,
+Casd1,MAE,2,no-UMI,BML-278,35,20uM,0.002380952,1260,VG,
+Casd1,MAE,2,no-UMI,BML-278,35,10uM,0.001814882,551,VG,
+Casd1,MAE,2,no-UMI,BML-278,35,1uM,0.001216545,822,VG,
+Ccnj,BAE,2,no-UMI,BML-278,35,20uM,0.477777778,720,VG,
+Ccnj,BAE,2,no-UMI,BML-278,35,10uM,0.65202109,569,VG,
+Ccnj,BAE,2,no-UMI,BML-278,35,1uM,0.471256684,1497,VG,
+Col6a5,MAE,2,no-UMI,BML-278,35,20uM,0.9626401,804,VG,
+Col6a5,MAE,2,no-UMI,BML-278,35,10uM,0.984304933,447,VG,
+Col6a5,MAE,2,no-UMI,BML-278,35,1uM,0.983228512,1432,VG,
+Dnajc12,MAE,2,no-UMI,BML-278,35,20uM,0.99494311,794,VG,
+Dnajc12,MAE,2,no-UMI,BML-278,35,10uM,0.990675991,430,VG,
+Dnajc12,MAE,2,no-UMI,BML-278,35,1uM,0.970899471,756,VG,
+Fam217b,MAE,2,no-UMI,BML-278,35,20uM,1,277,VG,
+Fam217b,MAE,2,no-UMI,BML-278,35,10uM,1,170,VG,
+Fam217b,MAE,2,no-UMI,BML-278,35,1uM,1,290,VG,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,35,20uM,0.999552412,33541,VG,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,35,10uM,0.99928771,18272,VG,
+H2-Ea-ps,MAE,2,no-UMI,BML-278,35,1uM,0.999178631,30473,VG,
+Hdlbp,BAE,2,no-UMI,BML-278,35,20uM,NA,0,VG,
+Hdlbp,BAE,2,no-UMI,BML-278,35,10uM,NA,0,VG,
+Hdlbp,BAE,2,no-UMI,BML-278,35,1uM,NA,0,VG,
+Mecp2,Xlinked,2,no-UMI,BML-278,35,20uM,1,1289,VG,
+Mecp2,Xlinked,2,no-UMI,BML-278,35,10uM,0.998858447,876,VG,
+Mecp2,Xlinked,2,no-UMI,BML-278,35,1uM,1,2073,VG,
+Ncam2,MAE,2,no-UMI,BML-278,35,20uM,0,205,VG,
+Ncam2,MAE,2,no-UMI,BML-278,35,10uM,0,100,VG,
+Ncam2,MAE,2,no-UMI,BML-278,35,1uM,0,223,VG,
+Pea15a,MAE,2,no-UMI,BML-278,35,20uM,0.907069971,2744,VG,
+Pea15a,MAE,2,no-UMI,BML-278,35,10uM,0.908277405,1341,VG,
+Pea15a,MAE,2,no-UMI,BML-278,35,1uM,0.906769826,2585,VG,
+Phka2,Xlinked,2,no-UMI,BML-278,35,20uM,1,311,VG,
+Phka2,Xlinked,2,no-UMI,BML-278,35,10uM,0.994011976,167,VG,
+Phka2,Xlinked,2,no-UMI,BML-278,35,1uM,1,256,VG,
+Pola1,Xlinked,2,no-UMI,BML-278,35,20uM,1,796,VG,
+Pola1,Xlinked,2,no-UMI,BML-278,35,10uM,1,370,VG,
+Pola1,Xlinked,2,no-UMI,BML-278,35,1uM,1,657,VG,
+Sash1,MAE,2,no-UMI,BML-278,35,20uM,1,1824,VG,
+Sash1,MAE,2,no-UMI,BML-278,35,10uM,1,1014,VG,
+Sash1,MAE,2,no-UMI,BML-278,35,1uM,0.999319728,1470,VG,
+Smtnl2,MAE,2,no-UMI,BML-278,35,20uM,0.053435115,131,VG,
+Smtnl2,MAE,2,no-UMI,BML-278,35,10uM,0.20754717,53,VG,
+Smtnl2,MAE,2,no-UMI,BML-278,35,1uM,0.089552239,201,VG,
+Spire1,MAE,2,no-UMI,BML-278,35,20uM,0.971698113,106,VG,
+Spire1,MAE,2,no-UMI,BML-278,35,10uM,1,49,VG,
+Spire1,MAE,2,no-UMI,BML-278,35,1uM,1,61,VG,
+Adamtsl4,MAE,1,no-UMI,BML-278,7,1uM,0.953606131,29278,,
+Adamtsl4,MAE,1,no-UMI,BML-278,7,10uM,0.859832268,17140,,
+Adamtsl4,MAE,1,no-UMI,BML-278,7,20uM,0.587625373,14817,,
+Adnp2,MAE,1,no-UMI,BML-278,7,1uM,0.064442264,9177,,
+Adnp2,MAE,1,no-UMI,BML-278,7,10uM,0.013192312,8795,,
+Adnp2,MAE,1,no-UMI,BML-278,7,20uM,0.001785714,560,,
+Afap1,MAE,1,no-UMI,BML-278,7,1uM,0.25,20,,
+Afap1,MAE,1,no-UMI,BML-278,7,10uM,0.02,50,,
+Afap1,MAE,1,no-UMI,BML-278,7,20uM,0,1,,
+Cacnb2,MAE,1,no-UMI,BML-278,7,1uM,0.046511628,43,,
+Cacnb2,MAE,1,no-UMI,BML-278,7,10uM,0.133333333,61,,
+Cacnb2,MAE,1,no-UMI,BML-278,7,20uM,NA,0,,
+Casd1,MAE,1,no-UMI,BML-278,7,1uM,0,33,,
+Casd1,MAE,1,no-UMI,BML-278,7,10uM,0,4,,
+Casd1,MAE,1,no-UMI,BML-278,7,20uM,NA,0,,
+Ccnj,BAE,1,no-UMI,BML-278,7,1uM,0.600635593,950,,
+Ccnj,BAE,1,no-UMI,BML-278,7,10uM,0.38817734,1026,,
+Ccnj,BAE,1,no-UMI,BML-278,7,20uM,0.6,5,,
+Col6a5,MAE,1,no-UMI,BML-278,7,1uM,0.990291262,310,,
+Col6a5,MAE,1,no-UMI,BML-278,7,10uM,1,64,,
+Col6a5,MAE,1,no-UMI,BML-278,7,20uM,1,1,,
+Dnajc12,MAE,1,no-UMI,BML-278,7,1uM,1,310,,
+Dnajc12,MAE,1,no-UMI,BML-278,7,10uM,0.771084337,84,,
+Dnajc12,MAE,1,no-UMI,BML-278,7,20uM,0.75,20,,
+Fam217b,MAE,1,no-UMI,BML-278,7,1uM,0.000335073,20907,,
+Fam217b,MAE,1,no-UMI,BML-278,7,10uM,0.000660633,15201,,
+Fam217b,MAE,1,no-UMI,BML-278,7,20uM,0.000607903,8236,,
+H2-Ea-ps,MAE,1,no-UMI,BML-278,7,1uM,0.999737165,11434,,
+H2-Ea-ps,MAE,1,no-UMI,BML-278,7,10uM,0.998081841,1566,,
+H2-Ea-ps,MAE,1,no-UMI,BML-278,7,20uM,1,29,,
+Hdlbp,BAE,1,no-UMI,BML-278,7,1uM,0.493760902,14932,,
+Hdlbp,BAE,1,no-UMI,BML-278,7,10uM,0.540750761,5943,,
+Hdlbp,BAE,1,no-UMI,BML-278,7,20uM,0.510344828,439,,
+Mecp2,Xlinked,1,no-UMI,BML-278,7,1uM,0.999728814,7386,,
+Mecp2,Xlinked,1,no-UMI,BML-278,7,10uM,1,2240,,
+Mecp2,Xlinked,1,no-UMI,BML-278,7,20uM,1,194,,
+Ncam2,MAE,1,no-UMI,BML-278,7,1uM,0,1554,,
+Ncam2,MAE,1,no-UMI,BML-278,7,10uM,0,52,,
+Ncam2,MAE,1,no-UMI,BML-278,7,20uM,NA,0,,
+Pea15a,MAE,1,no-UMI,BML-278,7,1uM,0.862298196,1053,,
+Pea15a,MAE,1,no-UMI,BML-278,7,10uM,0.828009828,409,,
+Pea15a,MAE,1,no-UMI,BML-278,7,20uM,0.984848485,67,,
+Phka2,Xlinked,1,no-UMI,BML-278,7,1uM,1,178,,
+Phka2,Xlinked,1,no-UMI,BML-278,7,10uM,0.993670886,158,,
+Phka2,Xlinked,1,no-UMI,BML-278,7,20uM,NA,0,,
+Pola1,Xlinked,1,no-UMI,BML-278,7,1uM,0.998130841,536,,
+Pola1,Xlinked,1,no-UMI,BML-278,7,10uM,0.998239437,575,,
+Pola1,Xlinked,1,no-UMI,BML-278,7,20uM,NA,0,,
+Sash1,MAE,1,no-UMI,BML-278,7,1uM,0.999839461,24967,,
+Sash1,MAE,1,no-UMI,BML-278,7,10uM,0.99684821,16033,,
+Sash1,MAE,1,no-UMI,BML-278,7,20uM,0.999571551,2343,,
+Smtnl2,MAE,1,no-UMI,BML-278,7,1uM,0.010684129,11638,,
+Smtnl2,MAE,1,no-UMI,BML-278,7,10uM,0,584,,
+Smtnl2,MAE,1,no-UMI,BML-278,7,20uM,0,12,,
+Spire1,MAE,1,no-UMI,BML-278,7,1uM,0.928952043,563,,
+Spire1,MAE,1,no-UMI,BML-278,7,10uM,0.953389831,237,,
+Spire1,MAE,1,no-UMI,BML-278,7,20uM,1,17,,
+Tmem104,BAE,1,no-UMI,BML-278,7,1uM,0.23255814,129,,
+Tmem104,BAE,1,no-UMI,BML-278,7,10uM,0.339449541,109,,
+Tmem104,BAE,1,no-UMI,BML-278,7,20uM,0,11,,
+3830406C13Rik,MAE,2,UMI,BML-278,7,20uM,0,54,VG,
+3830406C13Rik,MAE,2,UMI,BML-278,7,10uM,0,47,VG,
+3830406C13Rik,MAE,2,UMI,BML-278,7,1uM,0,3,VG,
+Adamtsl4,MAE,2,UMI,BML-278,7,20uM,0.96,25,VG,
+Adamtsl4,MAE,2,UMI,BML-278,7,10uM,0.970588235,34,VG,
+Adamtsl4,MAE,2,UMI,BML-278,7,1uM,1,1,VG,
+Adnp2,MAE,2,UMI,BML-278,7,20uM,0,40,VG,
+Adnp2,MAE,2,UMI,BML-278,7,10uM,0,51,VG,
+Adnp2,MAE,2,UMI,BML-278,7,1uM,0,3,VG,
+Dlc1,MAE,2,UMI,BML-278,7,20uM,0.803921569,51,VG,
+Dlc1,MAE,2,UMI,BML-278,7,10uM,0.859649123,57,VG,
+Dlc1,MAE,2,UMI,BML-278,7,1uM,1,1,VG,
+Dnajc12,MAE,2,UMI,BML-278,7,20uM,0.949579832,119,VG,
+Dnajc12,MAE,2,UMI,BML-278,7,10uM,0.931818182,132,VG,
+Dnajc12,MAE,2,UMI,BML-278,7,1uM,1,2,VG,
+Gprasp1,X-Linked,2,UMI,BML-278,7,20uM,1,91,VG,
+Gprasp1,X-Linked,2,UMI,BML-278,7,10uM,1,101,VG,
+Gprasp1,X-Linked,2,UMI,BML-278,7,1uM,1,2,VG,
+Slc25a37,BAE,2,UMI,BML-278,7,20uM,0.48245614,342,VG,
+Slc25a37,BAE,2,UMI,BML-278,7,10uM,0.466453674,314,VG,
+Slc25a37,BAE,2,UMI,BML-278,7,1uM,0.272727273,11,VG,
+Smtnl2,MAE,2,UMI,BML-278,7,20uM,0,8,VG,
+Smtnl2,MAE,2,UMI,BML-278,7,10uM,0.125,8,VG,
+Smtnl2,MAE,2,UMI,BML-278,7,1uM,NA,0,VG,
+Tpst1,MAE,2,UMI,BML-278,7,20uM,0.1,20,VG,
+Tpst1,MAE,2,UMI,BML-278,7,10uM,0,16,VG,
+Tpst1,MAE,2,UMI,BML-278,7,1uM,NA,0,VG,
+3830406C13Rik,MAE,2,UMI,BML-278,14,20uM,0,100,VG ,
+3830406C13Rik,MAE,2,UMI,BML-278,14,10uM,0,57,VG ,
+3830406C13Rik,MAE,2,UMI,BML-278,14,1uM,0,127,VG ,
+Adamtsl4,MAE,2,UMI,BML-278,14,20uM,1,63,VG ,
+Adamtsl4,MAE,2,UMI,BML-278,14,10uM,1,29,VG ,
+Adamtsl4,MAE,2,UMI,BML-278,14,1uM,0.967741935,62,VG ,
+Adnp2,MAE,2,UMI,BML-278,14,20uM,0,142,VG ,
+Adnp2,MAE,2,UMI,BML-278,14,10uM,0,57,VG ,
+Adnp2,MAE,2,UMI,BML-278,14,1uM,0,122,VG ,
+Dlc1,MAE,2,UMI,BML-278,14,20uM,0.813953488,86,VG ,
+Dlc1,MAE,2,UMI,BML-278,14,10uM,0.797979798,99,VG ,
+Dlc1,MAE,2,UMI,BML-278,14,1uM,0.777777778,217,VG ,
+Dnajc12,MAE,2,UMI,BML-278,14,20uM,0.922330097,206,VG ,
+Dnajc12,MAE,2,UMI,BML-278,14,10uM,0.88034188,117,VG ,
+Dnajc12,MAE,2,UMI,BML-278,14,1uM,0.930635838,346,VG ,
+Gprasp1,X-Linked,2,UMI,BML-278,14,20uM,0.995024876,201,VG ,
+Gprasp1,X-Linked,2,UMI,BML-278,14,10uM,1,119,VG ,
+Gprasp1,X-Linked,2,UMI,BML-278,14,1uM,0.994897959,197,VG ,
+Slc25a37,BAE,2,UMI,BML-278,14,20uM,0.458135861,634,VG ,
+Slc25a37,BAE,2,UMI,BML-278,14,10uM,0.479591837,294,VG ,
+Slc25a37,BAE,2,UMI,BML-278,14,1uM,0.460767947,601,VG ,
+Smtnl2,MAE,2,UMI,BML-278,14,20uM,0.2,5,VG ,
+Smtnl2,MAE,2,UMI,BML-278,14,10uM,0.2,5,VG ,
+Smtnl2,MAE,2,UMI,BML-278,14,1uM,0,9,VG ,
+Tpst1,MAE,2,UMI,BML-278,14,20uM,0,8,VG ,
+Tpst1,MAE,2,UMI,BML-278,14,10uM,0,11,VG ,
+Tpst1,MAE,2,UMI,BML-278,14,1uM,0,16,VG ,
+3830406C13Rik,MAE,2,UMI,BML-278,21,20uM,0,47,VG,
+3830406C13Rik,MAE,2,UMI,BML-278,21,10uM,0,45,VG,
+3830406C13Rik,MAE,2,UMI,BML-278,21,1uM,0,65,VG,
+Adamtsl4,MAE,2,UMI,BML-278,21,20uM,0.933333333,30,VG,
+Adamtsl4,MAE,2,UMI,BML-278,21,10uM,1,44,VG,
+Adamtsl4,MAE,2,UMI,BML-278,21,1uM,0.985915493,71,VG,
+Adnp2,MAE,2,UMI,BML-278,21,20uM,0.025,40,VG,
+Adnp2,MAE,2,UMI,BML-278,21,10uM,0,62,VG,
+Adnp2,MAE,2,UMI,BML-278,21,1uM,0,93,VG,
+Dlc1,MAE,2,UMI,BML-278,21,20uM,0.803571429,56,VG,
+Dlc1,MAE,2,UMI,BML-278,21,10uM,0.855855856,111,VG,
+Dlc1,MAE,2,UMI,BML-278,21,1uM,0.80952381,105,VG,
+Dnajc12,MAE,2,UMI,BML-278,21,20uM,0.891891892,111,VG,
+Dnajc12,MAE,2,UMI,BML-278,21,10uM,0.904191617,167,VG,
+Dnajc12,MAE,2,UMI,BML-278,21,1uM,0.933333333,286,VG,
+Gprasp1,X-Linked,2,UMI,BML-278,21,20uM,1,91,VG,
+Gprasp1,X-Linked,2,UMI,BML-278,21,10uM,1,95,VG,
+Gprasp1,X-Linked,2,UMI,BML-278,21,1uM,1,128,VG,
+Slc25a37,BAE,2,UMI,BML-278,21,20uM,0.427807487,188,VG,
+Slc25a37,BAE,2,UMI,BML-278,21,10uM,0.383333333,181,VG,
+Slc25a37,BAE,2,UMI,BML-278,21,1uM,0.518918919,186,VG,
+Smtnl2,MAE,2,UMI,BML-278,21,20uM,0,6,VG,
+Smtnl2,MAE,2,UMI,BML-278,21,10uM,0,5,VG,
+Smtnl2,MAE,2,UMI,BML-278,21,1uM,0.176470588,17,VG,
+Tpst1,MAE,2,UMI,BML-278,21,20uM,0,6,VG,
+Tpst1,MAE,2,UMI,BML-278,21,10uM,0,22,VG,
+Tpst1,MAE,2,UMI,BML-278,21,1uM,0.037037037,27,VG,
+3830406C13Rik,MAE,2,UMI,BML-278,28,20uM,0,47,VG,
+3830406C13Rik,MAE,2,UMI,BML-278,28,10uM,0,48,VG,
+3830406C13Rik,MAE,2,UMI,BML-278,28,1uM,0,1,VG,
+Adamtsl4,MAE,2,UMI,BML-278,28,20uM,1,36,VG,
+Adamtsl4,MAE,2,UMI,BML-278,28,10uM,1,33,VG,
+Adamtsl4,MAE,2,UMI,BML-278,28,1uM,NA,0,VG,
+Adnp2,MAE,2,UMI,BML-278,28,20uM,0,37,VG,
+Adnp2,MAE,2,UMI,BML-278,28,10uM,0,74,VG,
+Adnp2,MAE,2,UMI,BML-278,28,1uM,NA,0,VG,
+Dlc1,MAE,2,UMI,BML-278,28,20uM,0.764044944,89,VG,
+Dlc1,MAE,2,UMI,BML-278,28,10uM,0.811023622,127,VG,
+Dlc1,MAE,2,UMI,BML-278,28,1uM,1,2,VG,
+Dnajc12,MAE,2,UMI,BML-278,28,20uM,0.956834532,139,VG,
+Dnajc12,MAE,2,UMI,BML-278,28,10uM,0.944954128,218,VG,
+Dnajc12,MAE,2,UMI,BML-278,28,1uM,0.75,4,VG,
+Gprasp1,X-Linked,2,UMI,BML-278,28,20uM,1,77,VG,
+Gprasp1,X-Linked,2,UMI,BML-278,28,10uM,1,111,VG,
+Gprasp1,X-Linked,2,UMI,BML-278,28,1uM,1,3,VG,
+Slc25a37,BAE,2,UMI,BML-278,28,20uM,0.484615385,131,VG,
+Slc25a37,BAE,2,UMI,BML-278,28,10uM,0.453658537,205,VG,
+Slc25a37,BAE,2,UMI,BML-278,28,1uM,0,1,VG,
+Smtnl2,MAE,2,UMI,BML-278,28,20uM,0,8,VG,
+Smtnl2,MAE,2,UMI,BML-278,28,10uM,0.076923077,13,VG,
+Smtnl2,MAE,2,UMI,BML-278,28,1uM,NA,0,VG,
+Tpst1,MAE,2,UMI,BML-278,28,20uM,0,13,VG,
+Tpst1,MAE,2,UMI,BML-278,28,10uM,0,17,VG,
+Tpst1,MAE,2,UMI,BML-278,28,1uM,NA,0,VG,
+3830406C13Rik,MAE,2,UMI,BML-278,35,20uM,0,39,VG,
+3830406C13Rik,MAE,2,UMI,BML-278,35,10uM,0,32,VG,
+3830406C13Rik,MAE,2,UMI,BML-278,35,1uM,0,45,VG,
+Adamtsl4,MAE,2,UMI,BML-278,35,20uM,1,43,VG,
+Adamtsl4,MAE,2,UMI,BML-278,35,10uM,1,35,VG,
+Adamtsl4,MAE,2,UMI,BML-278,35,1uM,1,52,VG,
+Adnp2,MAE,2,UMI,BML-278,35,20uM,0,41,VG,
+Adnp2,MAE,2,UMI,BML-278,35,10uM,0,37,VG,
+Adnp2,MAE,2,UMI,BML-278,35,1uM,0,69,VG,
+Dlc1,MAE,2,UMI,BML-278,35,20uM,0.821428571,84,VG,
+Dlc1,MAE,2,UMI,BML-278,35,10uM,0.831683168,101,VG,
+Dlc1,MAE,2,UMI,BML-278,35,1uM,0.801652893,122,VG,
+Dnajc12,MAE,2,UMI,BML-278,35,20uM,0.98630137,146,VG,
+Dnajc12,MAE,2,UMI,BML-278,35,10uM,0.973684211,114,VG,
+Dnajc12,MAE,2,UMI,BML-278,35,1uM,0.981220657,213,VG,
+Gprasp1,X-Linked,2,UMI,BML-278,35,20uM,1,73,VG,
+Gprasp1,X-Linked,2,UMI,BML-278,35,10uM,1,53,VG,
+Gprasp1,X-Linked,2,UMI,BML-278,35,1uM,1,76,VG,
+Slc25a37,BAE,2,UMI,BML-278,35,20uM,0.467105263,152,VG,
+Slc25a37,BAE,2,UMI,BML-278,35,10uM,0.396039604,101,VG,
+Slc25a37,BAE,2,UMI,BML-278,35,1uM,0.390728477,151,VG,
+Smtnl2,MAE,2,UMI,BML-278,35,20uM,0,10,VG,
+Smtnl2,MAE,2,UMI,BML-278,35,10uM,0,7,VG,
+Smtnl2,MAE,2,UMI,BML-278,35,1uM,0,18,VG,
+Tpst1,MAE,2,UMI,BML-278,35,20uM,0,10,VG,
+Tpst1,MAE,2,UMI,BML-278,35,10uM,0,6,VG,
+Tpst1,MAE,2,UMI,BML-278,35,1uM,0.222222222,9,VG,
